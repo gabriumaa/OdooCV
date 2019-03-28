@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <record id="tecnico_category" model="ir.module.category">
+            <field name="name">Tecnicos</field>
+            <field name="sequence" eval="1"/>
+        </record>
+        <record id="tecnico_grupo" model="res.groups">
+            <field name="name">Tecnico</field>
+            <field name="category_id" ref="tecnico_category"/>
+            <field name="implied_ids" eval="[(4, ref('base.group_user'))]"/> <!-- Grupo heredados -->
+            <field name="comment">Comentarios de permiso</field>
+        </record>
+        <record id="tecnico_grupo_admin" model="res.groups">
+            <field name="name">Tecnico admin</field>
+            <field name="category_id" ref="tecnico_category"/>
+            <field name="implied_ids" eval="[(4, ref('tecnico_grupo'))]"/> <!-- Grupo heredados -->
+            <field name="users" eval="[(4, ref('base.user_root'))]"/> <!-- Usuarios: 4 es el admin -->
+            <field name="comment">Comentarios de permiso</field>
+        </record>
+        <record id="tecnicos_acciones_grupo" model="res.groups">
+            <field name="name">Acciones administrador</field>
+            <field name="category_id" ref="tecnico_category"/>
+            <field name="comment">Permiso para limitar el acceso a los tecnicos</field>
+        </record>
+        <record id="tecnicos_ver_lista" model="ir.rule">
+            <field name="name">Ver Tecnicos Creados</field>
+            <field name="model_id" ref="tecnicos.model_tecnicos_odoo"/>
+            <field name="domain_force">[('user_id', '=', user.id)]</field>
+            <field name="perm_write" eval="1"/>
+            <field name="perm_create" eval="1"/>
+            <field name="perm_read" eval="1"/>
+            <field name="perm_unlink" eval="1"/>
+            <field name="groups" eval="[(4, ref('tecnicos.tecnico_grupo'))]"/>
+        </record>
+    </data>
+</odoo>
