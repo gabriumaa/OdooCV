@@ -77,13 +77,13 @@
 
     <!-- actions opening reports on models -->
     <record model="ir.actions.act_window" id="tecnicos_action_view">
-      <field name="name">Acciones de técnicos</field>
+      <field name="name">Acción de técnicos</field>
       <field name="res_model">tecnicos.odoo</field>
       <field name="view_mode">tree,form,kanban</field>
     </record>
 
     <record model="ir.actions.act_window" id="tecnicos2_action_view">
-      <field name="name">Acciones de licencias</field>
+      <field name="name">Acción de licencias</field>
       <field name="res_model">licencias.odoo</field>
       <field name="view_mode">tree,form</field>
     </record>
