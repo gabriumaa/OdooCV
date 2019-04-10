@@ -1,0 +1,821 @@
+<odoo>
+    <data noupdate="0">
+
+        <!--Provincia San Jose -->
+
+        <!--SAn Jose -->
+        <record id="10101" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Carmen</field>
+
+        </record>
+        <record id="10102" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Merced</field>
+
+        </record>
+        <record id="10103" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Hospital</field>
+
+        </record>
+        <record id="10104" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Catedral</field>
+
+        </record>
+        <record id="10105" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Zapote</field>
+
+        </record>
+        <record id="10106" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">San Francisco de Dos Ríos</field>
+
+        </record>
+        <record id="10107" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Uruca</field>
+
+        </record>
+        <record id="10108" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Mata Redonda</field>
+
+        </record>
+        <record id="10109" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Pavas</field>
+
+        </record>
+        <record id="10110" model="canton.odoo">
+            <field name="Id">10</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">Hatillo</field>
+
+        </record>
+        <record id="10111" model="canton.odoo">
+            <field name="Id">11</field>
+            <field name="canton.distrito">101</field>
+            <field name="nombre">San Sebastián</field>
+
+        </record>
+
+        <!--Escazu-->
+
+        <record id="10201" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">102</field>
+            <field name="nombre">Escazú</field>
+
+        </record>
+        <record id="10202" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">102</field>
+            <field name="nombre">San Antonio</field>
+
+        </record>
+        <record id="10202" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">102</field>
+            <field name="nombre">San Rafael</field>
+
+        </record>
+
+
+        <!--Desamparados-->
+        <record id="10301" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Desamparados</field>
+
+        </record>
+                <record id="10302" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Miguel</field>
+
+        </record>
+                <record id="10303" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Juan de Dios</field>
+
+        </record>
+                <record id="10304" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Rafael Arriba</field>
+
+        </record>
+                <record id="10305" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Antonio</field>
+
+        </record>
+                <record id="10306" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Frailes</field>
+
+        </record>
+        <record id="10307" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Patarrá</field>
+
+        </record>
+        <record id="10308" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Cristóbal</field>
+
+        </record>
+                <record id="10309" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Rosario</field>
+
+        </record>
+        <record id="10310" model="canton.odoo">
+            <field name="Id">10</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Damas</field>
+
+        </record>
+        <record id="10311" model="canton.odoo">
+            <field name="Id">11</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">San Rafael Abajo</field>
+
+        </record>
+        <record id="10312" model="canton.odoo">
+            <field name="Id">12</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Gravilias</field>
+
+        </record>
+        <record id="10313" model="canton.odoo">
+            <field name="Id">13</field>
+            <field name="canton.distrito">103</field>
+            <field name="nombre">Los Guido</field>
+
+        </record>
+
+        <!--Puriscal-->
+
+        <record id="10401" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Santiago</field>
+
+        </record>
+         <record id="10402" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Mercedes Sur</field>
+
+        </record>
+         <record id="10403" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Barbacoas</field>
+
+        </record>
+         <record id="10404" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Grifo Alto</field>
+
+        </record>
+         <record id="10405" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">San Rafael</field>
+
+        </record>
+         <record id="10406" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Candelaria</field>
+
+        </record>
+         <record id="10407" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Desamparaditos</field>
+
+        </record>
+         <record id="10408" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">San Antonio</field>
+
+        </record>
+         <record id="10409" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">104</field>
+            <field name="nombre">Chires</field>
+
+        </record>
+
+        <record id="10501" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">105</field>
+            <field name="nombre">San Marcos</field>
+
+        </record>
+
+         <record id="10502" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">105</field>
+            <field name="nombre">San Lorenzo</field>
+
+        </record>
+
+
+         <record id="10503" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">105</field>
+            <field name="nombre">San Carlos</field>
+
+        </record>
+
+        <!--Aserri-->
+
+         <record id="10601" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">Aserrí</field>
+
+        </record>
+          <record id="10602" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">Tarbaca o Praga</field>
+
+        </record>
+
+          <record id="10603" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">Vuelta de Jorco</field>
+
+        </record>
+
+          <record id="10604" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">San Gabriel</field>
+
+        </record>
+
+          <record id="10605" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">La Legua</field>
+
+        </record>
+
+          <record id="10606" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">Monterrey</field>
+
+        </record>
+
+          <record id="10607" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">106</field>
+            <field name="nombre">Salitrillos</field>
+
+        </record>
+
+        <!--Mora-->
+
+        <record id="10701" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">107</field>
+            <field name="nombre">Colón</field>
+
+        </record>
+
+         <record id="10702" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">107</field>
+            <field name="nombre">Guayabo</field>
+
+        </record>
+
+         <record id="10703" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">107</field>
+            <field name="nombre">Tabarcia</field>
+
+        </record>
+
+         <record id="10704" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">107</field>
+            <field name="nombre">Piedras Negras</field>
+
+        </record>
+
+         <record id="10705" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">107</field>
+            <field name="nombre">Picagres</field>
+
+        </record>
+
+
+        <!--GOICOCHEA-->
+
+        <record id="10801" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Guadalupe</field>
+        </record>
+
+         <record id="10802" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">San Francisco</field>
+        </record>
+         <record id="10803" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Calle Blancos</field>
+        </record>
+         <record id="10804" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Mata de Plátano</field>
+        </record>
+         <record id="10805" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Ipís</field>
+        </record>
+         <record id="10806" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Rancho Redondo</field>
+        </record>
+         <record id="10807" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">108</field>
+            <field name="nombre">Purral</field>
+        </record>
+
+        <!--Santa Ana-->
+
+         <record id="10901" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Santa Ana</field>
+        </record>
+
+        <record id="10902" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Salitral</field>
+        </record>
+        <record id="10903" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Pozos o Concepción</field>
+        </record>
+        <record id="10904" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Uruca o San Joaquín</field>
+        </record>
+        <record id="10905" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Piedades</field>
+        </record>
+        <record id="10906" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">109</field>
+            <field name="nombre">Brasil</field>
+        </record>
+
+
+
+        <!-- Alajuelita-->
+
+        <record id="11001" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">110</field>
+            <field name="nombre">Alajuelita</field>
+        </record>
+
+        <record id="11002" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">110</field>
+            <field name="nombre">San Josecito</field>
+        </record>
+
+        <record id="11003" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">110</field>
+            <field name="nombre">San Antonio</field>
+        </record>
+
+        <record id="11004" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">110</field>
+            <field name="nombre">Concepción</field>
+        </record>
+
+        <record id="11005" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">110</field>
+            <field name="nombre">San Felipe</field>
+        </record>
+
+
+
+        <!--Coronado-->
+
+        <record id="11101" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">111</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="11102" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">111</field>
+            <field name="nombre">San Rafael</field>
+        </record>
+
+        <record id="11103" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">111</field>
+            <field name="nombre">Dulce Nombre o Jesús</field>
+        </record>
+
+        <record id="11104" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">111</field>
+            <field name="nombre">Patalillo</field>
+        </record>
+
+        <record id="11105" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">111</field>
+            <field name="nombre">Cascajal</field>
+        </record>
+
+
+        <!--Acosta-->
+
+        <record id="11201" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">112</field>
+            <field name="nombre">San Ignacio</field>
+        </record>
+
+        <record id="11202" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">112</field>
+            <field name="nombre">Guaitil</field>
+        </record>
+
+        <record id="11203" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">112</field>
+            <field name="nombre">Palmichal</field>
+        </record>
+
+
+        <record id="11204" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">112</field>
+            <field name="nombre">Cangrejal</field>
+        </record>
+
+
+        <record id="11205" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">112</field>
+            <field name="nombre">Sabanillas</field>
+        </record>
+
+
+        <!--Tibas-->
+
+
+        <record id="11301" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">113</field>
+            <field name="nombre">San Juan</field>
+        </record>
+
+        <record id="11302" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">113</field>
+            <field name="nombre">Cinco Esquinas</field>
+        </record>
+
+        <record id="11303" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">113</field>
+            <field name="nombre">Anselmo Llorente</field>
+        </record>
+
+        <record id="11304" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">113</field>
+            <field name="nombre">León XIII</field>
+        </record>
+
+        <record id="11305" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">113</field>
+            <field name="nombre">Colima</field>
+        </record>
+
+        <!--Moravia-->
+
+          <record id="11401" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">114</field>
+            <field name="nombre">San Vicente</field>
+        </record>
+
+         <record id="11402" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">114</field>
+            <field name="nombre">San Jerónimo</field>
+        </record>
+
+
+         <record id="11403" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">114</field>
+            <field name="nombre">La Trinidad</field>
+        </record>
+
+
+        <!--Montes de Oca-->
+
+
+        <record id="11501" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">115</field>
+            <field name="nombre">San Pedro</field>
+        </record>
+
+        <record id="11502" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">115</field>
+            <field name="nombre">Sabanilla</field>
+        </record>
+
+        <record id="11503" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">115</field>
+            <field name="nombre">Mercedes o Betania</field>
+        </record>
+
+        <record id="11504" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">115</field>
+            <field name="nombre">San Rafael</field>
+        </record>
+
+
+        <!--Turrubares-->
+
+         <record id="11601" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">116</field>
+            <field name="nombre">San Pablo</field>
+        </record>
+
+        <record id="11602" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">116</field>
+            <field name="nombre">San Pedro</field>
+        </record>
+
+        <record id="11603" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">116</field>
+            <field name="nombre">San Juan de Mata</field>
+        </record>
+
+        <record id="11604" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">116</field>
+            <field name="nombre">San Luis</field>
+        </record>
+
+        <record id="11605" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">116</field>
+            <field name="nombre">Carara</field>
+        </record>
+
+
+        <!--Dota-->
+
+        <record id="11701" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">117</field>
+            <field name="nombre">Santa María</field>
+        </record>
+
+        <record id="11702" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">117</field>
+            <field name="nombre">Jardín</field>
+        </record>
+
+        <record id="11703" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">117</field>
+            <field name="nombre">Copey</field>
+        </record>
+
+        <!--Curridabat-->
+
+        <record id="11801" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">118</field>
+            <field name="nombre">Curridabat</field>
+        </record>
+
+        <record id="11802" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">118</field>
+            <field name="nombre">Granadilla</field>
+        </record>
+
+        <record id="11803" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">118</field>
+            <field name="nombre">Sánchez</field>
+        </record>
+
+        <record id="11804" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">118</field>
+            <field name="nombre">Tirrases</field>
+        </record>
+
+
+        <!--PZ-->
+
+        <record id="11901" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="11902" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">General</field>
+        </record>
+
+        <record id="11903" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Daniel Flores</field>
+        </record>
+
+        <record id="11904" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Rivas</field>
+        </record>
+
+        <record id="11905" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">San Pedro</field>
+        </record>
+
+        <record id="11906" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Platanares</field>
+        </record>
+
+        <record id="11907" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Pejibaye</field>
+        </record>
+
+        <record id="11908" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Cajón o Carmen</field>
+        </record>
+
+        <record id="11909" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Barú</field>
+        </record>
+
+        <record id="11910" model="canton.odoo">
+            <field name="Id">10</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Río Nuevo</field>
+        </record>
+
+        <record id="11911" model="canton.odoo">
+            <field name="Id">11</field>
+            <field name="canton.distrito">119</field>
+            <field name="nombre">Páramo</field>
+        </record>
+
+        <!--Leon Cortes-->
+
+
+        <record id="12001" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">San Pablo</field>
+        </record>
+
+        <record id="12002" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">San Andrés</field>
+        </record>
+
+        <record id="12003" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">Llano Bonito</field>
+        </record>
+
+        <record id="12004" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="12005" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">Santa Cruz</field>
+        </record>
+
+        <record id="12006" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">120</field>
+            <field name="nombre">San Antonio</field>
+        </record>
+
+
+        <!--Provincia de Alajuela -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </data>
+</odoo>
