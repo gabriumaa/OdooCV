@@ -10,7 +10,7 @@
     """,
 
     'author': "Cable Visión de Costa Rica",
-    'website': "http://www.cablevision.cr",
+    'website': "https://www.cablevision.cr",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/11.0/odoo/addons/base/module/module_data.xml
@@ -19,13 +19,13 @@
     'version': '1.0',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'contacts'],
 
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        'views/tecnicos_view.xml',
-        'data/cantones.xml',
-        'data/distritos.xml'
+        #'views/tecnicos_view.xml',
+        'data/canton.xml',
+        'data/distrito.xml'
     ],
 }
