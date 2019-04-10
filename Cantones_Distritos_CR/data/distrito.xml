@@ -790,6 +790,397 @@
 
         <!--Provincia de Alajuela -->
 
+        <!--Alajuela-->
+
+        <record id="20101" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Alajuela</field>
+        </record>
+
+        <record id="20102" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">San José</field>
+        </record>
+
+        <record id="20103" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Carrizal</field>
+        </record>
+
+        <record id="20104" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">San Antonio</field>
+        </record>
+
+        <record id="20105" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Guácima</field>
+        </record>
+
+        <record id="20106" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="20107" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Sabanilla</field>
+        </record>
+
+        <record id="20108" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">San Rafael</field>
+        </record>
+
+        <record id="20109" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Río Segundo</field>
+        </record>
+
+        <record id="20110" model="canton.odoo">
+            <field name="Id">10</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Desamparados</field>
+        </record>
+
+        <record id="20111" model="canton.odoo">
+            <field name="Id">11</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Turrucares</field>
+        </record>
+
+        <record id="20112" model="canton.odoo">
+            <field name="Id">12</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Tambor</field>
+        </record>
+
+        <record id="20113" model="canton.odoo">
+            <field name="Id">13</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">La Garita</field>
+        </record>
+
+        <record id="20114" model="canton.odoo">
+            <field name="Id">14</field>
+            <field name="canton.distrito">201</field>
+            <field name="nombre">Sarapiquí</field>
+        </record>
+
+
+
+        <!--San Ramon -->
+
+        <record id="20201" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">San Ramón</field>
+        </record>
+
+         <record id="20202" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Santiago</field>
+        </record>
+
+
+         <record id="20203" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">San Juan</field>
+        </record>
+
+
+         <record id="20204" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Piedades Norte</field>
+        </record>
+
+
+
+         <record id="20205" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Piedades Sur</field>
+        </record>
+
+
+         <record id="20206" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">San Rafael</field>
+        </record>
+
+
+         <record id="20207" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+
+         <record id="20208" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Angeles</field>
+        </record>
+
+
+         <record id="20209" model="canton.odoo">
+            <field name="Id">09</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Alfaro</field>
+        </record>
+
+
+         <record id="20210" model="canton.odoo">
+            <field name="Id">10</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Volio</field>
+        </record>
+
+
+         <record id="20211" model="canton.odoo">
+            <field name="Id">11</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Concepción</field>
+        </record>
+
+
+         <record id="20212" model="canton.odoo">
+            <field name="Id">12</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">Zapotal</field>
+        </record>
+
+
+         <record id="20213" model="canton.odoo">
+            <field name="Id">13</field>
+            <field name="canton.distrito">202</field>
+            <field name="nombre">San Isidro de Peñas Blancas</field>
+        </record>
+
+
+    <!--Grecia-->
+
+        <record id="20301" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">Grecia</field>
+        </record>
+
+        <record id="20302" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="20303" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">San José</field>
+        </record>
+
+        <record id="20304" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">San Roque</field>
+        </record>
+
+        <record id="20305" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">Tacares</field>
+        </record>
+
+        <record id="20306" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">Puente Piedra</field>
+        </record>
+
+        <record id="20307" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">203</field>
+            <field name="nombre">Bolívar</field>
+        </record>
+
+       <!--San Mateo-->
+
+        <record id="20401" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">204</field>
+            <field name="nombre">San Mateo</field>
+        </record>
+
+
+
+        <record id="20402" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">204</field>
+            <field name="nombre">Desmonte</field>
+        </record>
+
+         <record id="20403" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">204</field>
+            <field name="nombre">Jesús María</field>
+        </record>
+
+
+        <!--Atenas-->
+
+        <record id="20501" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Atenas</field>
+        </record>
+
+        <record id="20502" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Jesús</field>
+        </record>
+
+        <record id="20503" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Mercedes</field>
+        </record>
+
+        <record id="20504" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">San Isidro</field>
+        </record>
+
+        <record id="20505" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Concepción</field>
+        </record>
+
+        <record id="20506" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">San José</field>
+        </record>
+
+        <record id="20507" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Santa Eulalia</field>
+        </record>
+
+        <record id="20508" model="canton.odoo">
+            <field name="Id">08</field>
+            <field name="canton.distrito">205</field>
+            <field name="nombre">Escobal</field>
+        </record>
+
+
+
+        <!--Naranjo-->
+
+        <record id="20601" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">Naranjo</field>
+        </record>
+
+        <record id="20602" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">San Miguel</field>
+        </record>
+
+        <record id="20603" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">San José</field>
+        </record>
+        <record id="20604" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">Cirrí Sur</field>
+        </record>
+        <record id="20605" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">San Jerónimo</field>
+        </record>
+
+        <record id="20606" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">San Juan</field>
+        </record>
+
+        <record id="20607" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">206</field>
+            <field name="nombre">Rosario</field>
+        </record>
+
+        <!--Palmares-->
+
+         <record id="20701" model="canton.odoo">
+            <field name="Id">01</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Palmares</field>
+        </record>
+
+        <record id="20702" model="canton.odoo">
+            <field name="Id">02</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Zaragoza</field>
+        </record>
+
+        <record id="20703" model="canton.odoo">
+            <field name="Id">03</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Buenos Aires</field>
+        </record>
+
+        <record id="20704" model="canton.odoo">
+            <field name="Id">04</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Santiago</field>
+        </record>
+
+        <record id="20705" model="canton.odoo">
+            <field name="Id">05</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Candelaria</field>
+        </record>
+
+        <record id="20706" model="canton.odoo">
+            <field name="Id">06</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">Esquipulas</field>
+        </record>
+
+        <record id="20707" model="canton.odoo">
+            <field name="Id">07</field>
+            <field name="canton.distrito">207</field>
+            <field name="nombre">La Granja</field>
+        </record>
+
+
+
+
+
+
 
 
 

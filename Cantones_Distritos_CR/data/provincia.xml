@@ -1,0 +1,57 @@
+<odoo>
+    <data noupdate="0">
+
+        <!--Provincia -->
+
+
+        <record id="1" model="res.country.state">
+            <field name="id">1</field>
+            <field name="name">San José</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="2" model="res.country.state">
+            <field name="id">2</field>
+            <field name="name">Alajuela</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="3" model="res.country.state">
+            <field name="id">3</field>
+            <field name="name">Cartago</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="4" model="res.country.state">
+            <field name="id">4</field>
+            <field name="name">Heredia</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="5" model="res.country.state">
+            <field name="id">5</field>
+            <field name="name">Guanacaste</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="6" model="res.country.state">
+            <field name="id">6</field>
+            <field name="name">Puntarenas</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+        <record id="7" model="res.country.state">
+            <field name="id">7</field>
+            <field name="name">Limón</field>
+             <field name="country_id">CR</field>
+
+        </record>
+
+    </data>
+</odoo>
