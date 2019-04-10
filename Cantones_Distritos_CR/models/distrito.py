@@ -8,4 +8,4 @@ class distrito(models.Model):
 
      id = fields.Integer( string="Código de distrito", required=True )
      name = fields.Char( string="Nombre distrito", required=True )
-     state = fields.Many2one( comodel_name="canton.state", string="Distrito", required=True )
+     canton = fields.Many2one( comodel_name="canton.state", string="Cantón", required=True )
