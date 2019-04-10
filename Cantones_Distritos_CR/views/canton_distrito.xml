@@ -1,0 +1,49 @@
+<odoo>
+  <data>
+    <!-- Lista de cantones -->
+    <record model="ir.ui.view" id="canton_list">
+      <field name="name">Cantones</field>
+      <field name="model">canton.state</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="id"/>
+          <field name="name"/>
+          <field name="state"/>
+        </tree>
+      </field>
+    </record>
+
+    <!-- Lista de distritos -->
+    <record model="ir.ui.view" id="distrito_list">
+      <field name="name">Distritos</field>
+      <field name="model">distrito.canton</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="id"/>
+          <field name="name"/>
+          <field name="canton"/>
+        </tree>
+      </field>
+    </record>
+
+    <!-- Acción de cantón -->
+    <record model="ir.actions.act_window" id="canton_action_view">
+      <field name="name">Cantones</field>
+      <field name="res_model">canton.state</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Acción de distritos -->
+    <record model="ir.actions.act_window" id="distrito_action_view">
+      <field name="name">Distritos</field>
+      <field name="res_model">distrito.canton</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menú de cantones -->
+    <menuitem name="Cantones" id="canton_menu_list" parent="contacts.menu_country_state_partner" action="canton_action_view"/>
+
+    <!-- Menú de distritos -->
+    <menuitem name="Distritos" id="distrito_menu_list" parent="contacts.menu_country_state_partner" action="distrito_action_view"/>
+  </data>
+</odoo>

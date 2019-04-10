@@ -24,7 +24,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        #'views/tecnicos_view.xml',
+        'views/canton_distrito.xml',
         'data/canton.xml',
         'data/distrito.xml'
     ],
