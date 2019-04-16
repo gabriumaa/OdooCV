@@ -22,7 +22,9 @@
         <tree>
           <field name="id"/>
           <field name="name"/>
-          <field name="canton"/>
+          <field name="canton_fk"/>
+          <field name="state_fk"/>
+          <field name="country_fk"/>
         </tree>
       </field>
     </record>

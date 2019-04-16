@@ -15,13 +15,13 @@ class distrito(models.Model):
 @api.onchange('country_fk')
 def _onchange_country(self):
     if self.country_fk:
-        return {'domain': {'state_fk': [('res.country.state.country_id', '=', self.country_fk.country_id)]}}
+        return {'domain': {'state_fk': [('res.country.state.country_id', '=', self.country_fk.id)]}}
     else:
         return {'domain': {'state_fk': []}}
 
 @api.onchange('state_fk')
 def _onchange_state(self):
     if self.state_fk:
-        return {'domain': {'canton_fk': [('canton.state.id', '=', self.state_fk.id)]}}
+        return {'domain': {'canton_fk': [('canton.state.state_fk', '=', self.state_fk.id)]}}
     else:
         return {'domain': {'canton_fk': []}}
