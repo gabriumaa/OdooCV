@@ -41,9 +41,12 @@
     </record>
 
     <!-- Menú de cantones -->
-    <menuitem name="Cantones" id="canton_menu_list" parent="contacts.menu_country_state_partner" action="canton_action_view"/>
+    <menuitem name="Cantones" id="canton_menu_list" parent="contacts.menu_localisation" action="canton_action_view" sequence="3" />
 
     <!-- Menú de distritos -->
-    <menuitem name="Distritos" id="distrito_menu_list" parent="contacts.menu_country_state_partner" action="distrito_action_view"/>
+    <menuitem name="Distritos" id="distrito_menu_list" parent="contacts.menu_localisation" action="distrito_action_view" sequence="4" />
+
+    <!-- Cambiar secuencia menús -->
+    <menuitem id="contacts.menu_country_group" parent="contacts.menu_localisation" sequence="5" />
   </data>
 </odoo>

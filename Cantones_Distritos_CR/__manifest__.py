@@ -25,6 +25,7 @@
     'data': [
         # 'security/ir.model.access.csv',
         'views/canton_distrito.xml',
+        'data/provincia.xml',
         'data/canton.xml',
         'data/distrito.xml'
     ],
