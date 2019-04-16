@@ -15,6 +15,6 @@ class canton(models.Model):
 @api.onchange('country_fk')
 def _onchange_country(self):
     if self.country_fk:
-        return {'domain': {'state_fk': [('res.country.state.country_id', '=', self.country_fk.country_id)]}}
+        return {'domain': {'state_fk': [('res.country.state.country_id', '=', self.country_fk.id)]}}
     else:
         return {'domain': {'state_fk': []}}
