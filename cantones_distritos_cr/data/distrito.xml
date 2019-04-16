@@ -4081,6 +4081,7 @@
         <record id="70605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">706</field>
+
             <field name="state_fk">7</field>
             <field name="country_fk">50</field>
             <field name="name">Duacarí</field>
