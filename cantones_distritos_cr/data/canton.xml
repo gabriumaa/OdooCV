@@ -1,0 +1,577 @@
+<odoo>
+    <data noupdate="0">
+        <record id="101" model="canton.state">
+            <field name="id">101</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">San José</field>
+        </record>
+
+        <record id="102" model="canton.state">
+            <field name="id">102</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Escazú</field>
+        </record>
+
+        <record id="103" model="canton.state">
+            <field name="id">103</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Desamparados</field>
+        </record>
+
+        <record id="104" model="canton.state">
+            <field name="id">104</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Puriscal</field>
+        </record>
+
+        <record id="105" model="canton.state">
+            <field name="id">105</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Tarrazú</field>
+        </record>
+
+        <record id="106" model="canton.state">
+            <field name="id">106</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Aserrí</field>
+        </record>
+
+        <record id="107" model="canton.state">
+            <field name="id">107</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Mora</field>
+        </record>
+
+        <record id="108" model="canton.state">
+            <field name="id">108</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Goicoechea</field>
+        </record>
+
+        <record id="109" model="canton.state">
+            <field name="id">109</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Santa Ana</field>
+        </record>
+
+        <record id="110" model="canton.state">
+            <field name="id">110</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Alajuelita</field>
+        </record>
+
+        <record id="111" model="canton.state">
+            <field name="id">111</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Vásquez de Coronado</field>
+        </record>
+
+        <record id="112" model="canton.state">
+            <field name="id">112</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Acosta</field>
+        </record>
+
+        <record id="113" model="canton.state">
+            <field name="id">113</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Tibás</field>
+        </record>
+
+        <record id="114" model="canton.state">
+            <field name="id">114</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Moravia</field>
+        </record>
+
+        <record id="115" model="canton.state">
+            <field name="id">115</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Montes de Oca</field>
+        </record>
+
+        <record id="116" model="canton.state">
+            <field name="id">116</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Turrubares</field>
+        </record>
+
+        <record id="117" model="canton.state">
+            <field name="id">117</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Dota</field>
+        </record>
+
+        <record id="118" model="canton.state">
+            <field name="id">118</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Currridabat</field>
+        </record>
+
+        <record id="119" model="canton.state">
+            <field name="id">119</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">Pérez Zeledón</field>
+        </record>
+
+        <record id="120" model="canton.state">
+            <field name="id">120</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">682</field>
+            <field name="name">León Cortés</field>
+        </record>
+
+        <record id="201" model="canton.state">
+            <field name="id">201</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Alajuela</field>
+        </record>
+
+        <record id="202" model="canton.state">
+            <field name="id">202</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">San Ramón</field>
+        </record>
+
+        <record id="203" model="canton.state">
+            <field name="id">203</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Grecia</field>
+        </record>
+
+        <record id="204" model="canton.state">
+            <field name="id">204</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">San Mateo</field>
+        </record>
+
+        <record id="205" model="canton.state">
+            <field name="id">205</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Atenas</field>
+        </record>
+
+        <record id="206" model="canton.state">
+            <field name="id">206</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Naranjo</field>
+        </record>
+
+        <record id="207" model="canton.state">
+            <field name="id">207</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Palmares</field>
+        </record>
+
+        <record id="208" model="canton.state">
+            <field name="id">208</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Poás</field>
+        </record>
+
+        <record id="209" model="canton.state">
+            <field name="id">209</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Orotina</field>
+        </record>
+
+        <record id="210" model="canton.state">
+            <field name="id">210</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">San Carlos</field>
+        </record>
+
+        <record id="211" model="canton.state">
+            <field name="id">211</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Alfaro Ruíz</field>
+        </record>
+
+        <record id="212" model="canton.state">
+            <field name="id">212</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Valverde Vega</field>
+        </record>
+
+        <record id="213" model="canton.state">
+            <field name="id">213</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Upala</field>
+        </record>
+
+        <record id="214" model="canton.state">
+            <field name="id">214</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Los Chiles</field>
+        </record>
+
+        <record id="215" model="canton.state">
+            <field name="id">215</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Guatuso</field>
+        </record>
+
+        <record id="216" model="canton.state">
+            <field name="id">216</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">683</field>
+            <field name="name">Río Cuarto</field>
+        </record>
+
+        <record id="301" model="canton.state">
+            <field name="id">301</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Cartago</field>
+        </record>
+
+        <record id="302" model="canton.state">
+            <field name="id">302</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Paraíso</field>
+        </record>
+
+        <record id="303" model="canton.state">
+            <field name="id">303</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">La Unión</field>
+        </record>
+
+        <record id="304" model="canton.state">
+            <field name="id">304</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Jiménez</field>
+        </record>
+
+        <record id="305" model="canton.state">
+            <field name="id">305</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Turrialba</field>
+        </record>
+
+        <record id="306" model="canton.state">
+            <field name="id">306</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Alvarado</field>
+        </record>
+
+        <record id="307" model="canton.state">
+            <field name="id">307</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">Oreamuno</field>
+        </record>
+
+        <record id="308" model="canton.state">
+            <field name="id">308</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">684</field>
+            <field name="name">El Guarco</field>
+        </record>
+
+        <record id="401" model="canton.state">
+            <field name="id">401</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Heredia</field>
+        </record>
+
+        <record id="402" model="canton.state">
+            <field name="id">402</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Barva</field>
+        </record>
+
+        <record id="403" model="canton.state">
+            <field name="id">403</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Santo Domingo</field>
+        </record>
+
+        <record id="404" model="canton.state">
+            <field name="id">404</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Santa Bárbara</field>
+        </record>
+
+        <record id="405" model="canton.state">
+            <field name="id">405</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">San Rafael</field>
+        </record>
+
+        <record id="406" model="canton.state">
+            <field name="id">406</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">San Isidro</field>
+        </record>
+
+        <record id="407" model="canton.state">
+            <field name="id">407</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Belén</field>
+        </record>
+
+        <record id="408" model="canton.state">
+            <field name="id">408</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Flores</field>
+        </record>
+
+        <record id="409" model="canton.state">
+            <field name="id">409</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">San Pablo</field>
+        </record>
+
+        <record id="410" model="canton.state">
+            <field name="id">410</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">685</field>
+            <field name="name">Sarapiquí</field>
+        </record>
+
+        <record id="501" model="canton.state">
+            <field name="id">501</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Liberia</field>
+        </record>
+
+        <record id="502" model="canton.state">
+            <field name="id">502</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Nicoya</field>
+        </record>
+
+        <record id="503" model="canton.state">
+            <field name="id">503</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Santa Cruz</field>
+        </record>
+
+        <record id="504" model="canton.state">
+            <field name="id">504</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Bagaces</field>
+        </record>
+
+        <record id="505" model="canton.state">
+            <field name="id">505</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Carrillo</field>
+        </record>
+
+        <record id="506" model="canton.state">
+            <field name="id">506</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Cañas</field>
+        </record>
+
+        <record id="507" model="canton.state">
+            <field name="id">507</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Abangares</field>
+        </record>
+
+        <record id="508" model="canton.state">
+            <field name="id">508</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Tilarán</field>
+        </record>
+
+        <record id="509" model="canton.state">
+            <field name="id">509</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Nandayure</field>
+        </record>
+
+        <record id="510" model="canton.state">
+            <field name="id">510</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">La Cruz</field>
+        </record>
+
+        <record id="511" model="canton.state">
+            <field name="id">511</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">686</field>
+            <field name="name">Hojancha</field>
+        </record>
+
+        <record id="601" model="canton.state">
+            <field name="id">601</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Puntarenas</field>
+        </record>
+
+        <record id="602" model="canton.state">
+            <field name="id">602</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Esparza</field>
+        </record>
+
+        <record id="603" model="canton.state">
+            <field name="id">603</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Buenos Aires</field>
+        </record>
+
+        <record id="604" model="canton.state">
+            <field name="id">604</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Montes de Oro</field>
+        </record>
+
+        <record id="605" model="canton.state">
+            <field name="id">605</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Osa</field>
+        </record>
+
+        <record id="606" model="canton.state">
+            <field name="id">606</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Aguirre</field>
+        </record>
+
+        <record id="607" model="canton.state">
+            <field name="id">607</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Golfito</field>
+        </record>
+
+        <record id="608" model="canton.state">
+            <field name="id">608</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Coto Brus</field>
+        </record>
+
+        <record id="609" model="canton.state">
+            <field name="id">609</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Parrita</field>
+        </record>
+
+        <record id="610" model="canton.state">
+            <field name="id">610</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Corredores</field>
+        </record>
+
+        <record id="611" model="canton.state">
+            <field name="id">611</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">687</field>
+            <field name="name">Garabito</field>
+        </record>
+
+        <record id="701" model="canton.state">
+            <field name="id">701</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Limón</field>
+        </record>
+
+        <record id="702" model="canton.state">
+            <field name="id">702</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Pococí</field>
+        </record>
+
+        <record id="703" model="canton.state">
+            <field name="id">703</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Siquirres</field>
+        </record>
+
+        <record id="704" model="canton.state">
+            <field name="id">704</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Talamanca</field>
+        </record>
+
+        <record id="705" model="canton.state">
+            <field name="id">705</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Garabito</field>
+        </record>
+
+        <record id="706" model="canton.state">
+            <field name="id">706</field>
+            <field name="country_fk">50</field>
+            <field name="state_fk">688</field>
+            <field name="name">Guácimo</field>
+        </record>
+    </data>
+</odoo>

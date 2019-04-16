@@ -8,7 +8,8 @@
         <tree>
           <field name="id"/>
           <field name="name"/>
-          <field name="state"/>
+          <field name="state_fk"/>
+          <field name="country_fk"/>
         </tree>
       </field>
     </record>
