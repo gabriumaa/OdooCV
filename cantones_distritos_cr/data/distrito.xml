@@ -7,66 +7,88 @@
         <record id="10101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Carmen</field>
 
         </record>
         <record id="10102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Merced</field>
 
         </record>
         <record id="10103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Hospital</field>
 
         </record>
         <record id="10104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Catedral</field>
 
         </record>
         <record id="10105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Zapote</field>
 
         </record>
         <record id="10106" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Francisco de Dos Ríos</field>
 
         </record>
         <record id="10107" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Uruca</field>
 
         </record>
         <record id="10108" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Mata Redonda</field>
 
         </record>
         <record id="10109" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Pavas</field>
 
         </record>
         <record id="10110" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Hatillo</field>
 
         </record>
         <record id="10111" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">101</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Sebastián</field>
 
         </record>
@@ -76,18 +98,24 @@
         <record id="10201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">102</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Escazú</field>
 
         </record>
         <record id="10202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">102</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
 
         </record>
         <record id="10202" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">102</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
 
         </record>
@@ -97,78 +125,104 @@
         <record id="10301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Desamparados</field>
 
         </record>
                 <record id="10302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Miguel</field>
 
         </record>
                 <record id="10303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan de Dios</field>
 
         </record>
                 <record id="10304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael Arriba</field>
 
         </record>
                 <record id="10305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
 
         </record>
                 <record id="10306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Frailes</field>
 
         </record>
         <record id="10307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Patarrá</field>
 
         </record>
         <record id="10308" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Cristóbal</field>
 
         </record>
                 <record id="10309" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">103</field>
+                    <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Rosario</field>
 
         </record>
         <record id="10310" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Damas</field>
 
         </record>
         <record id="10311" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael Abajo</field>
 
         </record>
         <record id="10312" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Gravilias</field>
 
         </record>
         <record id="10313" model="canton.odoo">
             <field name="Id">13</field>
             <field name="canton.distrito">103</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Los Guido</field>
 
         </record>
@@ -178,54 +232,72 @@
         <record id="10401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">104</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Santiago</field>
 
         </record>
          <record id="10402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Mercedes Sur</field>
 
         </record>
          <record id="10403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Barbacoas</field>
 
         </record>
          <record id="10404" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Grifo Alto</field>
 
         </record>
          <record id="10405" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
 
         </record>
          <record id="10406" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Candelaria</field>
 
         </record>
          <record id="10407" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Desamparaditos</field>
 
         </record>
          <record id="10408" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
 
         </record>
          <record id="10409" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">104</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Chires</field>
 
         </record>
@@ -233,6 +305,8 @@
         <record id="10501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">105</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Marcos</field>
 
         </record>
@@ -240,6 +314,8 @@
          <record id="10502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">105</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Lorenzo</field>
 
         </record>
@@ -248,6 +324,8 @@
          <record id="10503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">105</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Carlos</field>
 
         </record>
@@ -257,12 +335,16 @@
          <record id="10601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">106</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Aserrí</field>
 
         </record>
           <record id="10602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Tarbaca o Praga</field>
 
         </record>
@@ -270,6 +352,8 @@
           <record id="10603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Vuelta de Jorco</field>
 
         </record>
@@ -277,6 +361,8 @@
           <record id="10604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Gabriel</field>
 
         </record>
@@ -284,6 +370,8 @@
           <record id="10605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">La Legua</field>
 
         </record>
@@ -291,6 +379,8 @@
           <record id="10606" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Monterrey</field>
 
         </record>
@@ -298,6 +388,8 @@
           <record id="10607" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">106</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Salitrillos</field>
 
         </record>
@@ -307,6 +399,8 @@
         <record id="10701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">107</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Colón</field>
 
         </record>
@@ -314,6 +408,8 @@
          <record id="10702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">107</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Guayabo</field>
 
         </record>
@@ -321,6 +417,8 @@
          <record id="10703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">107</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Tabarcia</field>
 
         </record>
@@ -328,6 +426,8 @@
          <record id="10704" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">107</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Piedras Negras</field>
 
         </record>
@@ -335,6 +435,8 @@
          <record id="10705" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">107</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Picagres</field>
 
         </record>
@@ -345,37 +447,51 @@
         <record id="10801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">108</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Guadalupe</field>
         </record>
 
          <record id="10802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Francisco</field>
         </record>
          <record id="10803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Calle Blancos</field>
         </record>
          <record id="10804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Mata de Plátano</field>
         </record>
          <record id="10805" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Ipís</field>
         </record>
          <record id="10806" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Rancho Redondo</field>
         </record>
          <record id="10807" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">108</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Purral</field>
         </record>
 
@@ -384,32 +500,44 @@
          <record id="10901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">109</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Ana</field>
         </record>
 
         <record id="10902" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">109</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Salitral</field>
         </record>
         <record id="10903" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">109</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Pozos o Concepción</field>
         </record>
         <record id="10904" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">109</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Uruca o San Joaquín</field>
         </record>
         <record id="10905" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">109</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Piedades</field>
         </record>
         <record id="10906" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">109</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Brasil</field>
         </record>
 
@@ -420,30 +548,40 @@
         <record id="11001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">110</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Alajuelita</field>
         </record>
 
         <record id="11002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">110</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Josecito</field>
         </record>
 
         <record id="11003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">110</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
         </record>
 
         <record id="11004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">110</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
         <record id="11005" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">110</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Felipe</field>
         </record>
 
@@ -454,30 +592,40 @@
         <record id="11101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">111</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="11102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">111</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
         <record id="11103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">111</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Dulce Nombre o Jesús</field>
         </record>
 
         <record id="11104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">111</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Patalillo</field>
         </record>
 
         <record id="11105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">111</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Cascajal</field>
         </record>
 
@@ -487,18 +635,24 @@
         <record id="11201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">112</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Ignacio</field>
         </record>
 
         <record id="11202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">112</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Guaitil</field>
         </record>
 
         <record id="11203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">112</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmichal</field>
         </record>
 
@@ -506,6 +660,8 @@
         <record id="11204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">112</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Cangrejal</field>
         </record>
 
@@ -513,6 +669,8 @@
         <record id="11205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">112</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Sabanillas</field>
         </record>
 
@@ -523,30 +681,40 @@
         <record id="11301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">113</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
         <record id="11302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">113</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Cinco Esquinas</field>
         </record>
 
         <record id="11303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">113</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Anselmo Llorente</field>
         </record>
 
         <record id="11304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">113</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">León XIII</field>
         </record>
 
         <record id="11305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">113</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Colima</field>
         </record>
 
@@ -555,12 +723,16 @@
           <record id="11401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">114</field>
+              <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Vicente</field>
         </record>
 
          <record id="11402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">114</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Jerónimo</field>
         </record>
 
@@ -568,6 +740,8 @@
          <record id="11403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">114</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">La Trinidad</field>
         </record>
 
@@ -578,24 +752,32 @@
         <record id="11501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">115</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
         <record id="11502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">115</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Sabanilla</field>
         </record>
 
         <record id="11503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">115</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Mercedes o Betania</field>
         </record>
 
         <record id="11504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">115</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
@@ -605,30 +787,40 @@
          <record id="11601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">116</field>
+             <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pablo</field>
         </record>
 
         <record id="11602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">116</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
         <record id="11603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">116</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan de Mata</field>
         </record>
 
         <record id="11604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">116</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Luis</field>
         </record>
 
         <record id="11605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">116</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Carara</field>
         </record>
 
@@ -638,18 +830,24 @@
         <record id="11701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">117</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa María</field>
         </record>
 
         <record id="11702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">117</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Jardín</field>
         </record>
 
         <record id="11703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">117</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Copey</field>
         </record>
 
@@ -658,24 +856,32 @@
         <record id="11801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">118</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Curridabat</field>
         </record>
 
         <record id="11802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">118</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Granadilla</field>
         </record>
 
         <record id="11803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">118</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Sánchez</field>
         </record>
 
         <record id="11804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">118</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Tirrases</field>
         </record>
 
@@ -685,66 +891,88 @@
         <record id="11901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="11902" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">General</field>
         </record>
 
         <record id="11903" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Daniel Flores</field>
         </record>
 
         <record id="11904" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Rivas</field>
         </record>
 
         <record id="11905" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
         <record id="11906" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Platanares</field>
         </record>
 
         <record id="11907" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Pejibaye</field>
         </record>
 
         <record id="11908" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Cajón o Carmen</field>
         </record>
 
         <record id="11909" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Barú</field>
         </record>
 
         <record id="11910" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Nuevo</field>
         </record>
 
         <record id="11911" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">119</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Páramo</field>
         </record>
 
@@ -754,36 +982,48 @@
         <record id="12001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">120</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pablo</field>
         </record>
 
         <record id="12002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">120</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Andrés</field>
         </record>
 
         <record id="12003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">120</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Llano Bonito</field>
         </record>
 
         <record id="12004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">120</field>
+            }<field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="12005" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">120</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Cruz</field>
         </record>
 
         <record id="12006" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">120</field>
+            <field name="state_fk">1</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
         </record>
 
@@ -795,85 +1035,112 @@
         <record id="20101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Alajuela</field>
         </record>
 
         <record id="20102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San José</field>
         </record>
 
         <record id="20103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Carrizal</field>
         </record>
 
         <record id="20104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
         </record>
 
         <record id="20105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Guácima</field>
         </record>
 
         <record id="20106" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="20107" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Sabanilla</field>
         </record>
 
         <record id="20108" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
         <record id="20109" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Segundo</field>
         </record>
 
         <record id="20110" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Desamparados</field>
         </record>
 
         <record id="20111" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Turrucares</field>
         </record>
 
         <record id="20112" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Tambor</field>
         </record>
 
         <record id="20113" model="canton.odoo">
             <field name="Id">13</field>
             <field name="canton.distrito">201</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">La Garita</field>
         </record>
 
         <record id="20114" model="canton.odoo">
             <field name="Id">14</field>
             <field name="canton.distrito">201</field>
-            <field name="name">Sarapiquí</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
         </record>
 
 
@@ -883,12 +1150,16 @@
         <record id="20201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">202</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Ramón</field>
         </record>
 
          <record id="20202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Santiago</field>
         </record>
 
@@ -896,6 +1167,8 @@
          <record id="20203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
@@ -903,6 +1176,8 @@
          <record id="20204" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Piedades Norte</field>
         </record>
 
@@ -911,6 +1186,8 @@
          <record id="20205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Piedades Sur</field>
         </record>
 
@@ -918,6 +1195,8 @@
          <record id="20206" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
@@ -925,6 +1204,8 @@
          <record id="20207" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
@@ -932,6 +1213,8 @@
          <record id="20208" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Angeles</field>
         </record>
 
@@ -939,6 +1222,8 @@
          <record id="20209" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Alfaro</field>
         </record>
 
@@ -946,6 +1231,8 @@
          <record id="20210" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Volio</field>
         </record>
 
@@ -953,6 +1240,8 @@
          <record id="20211" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
@@ -960,6 +1249,8 @@
          <record id="20212" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Zapotal</field>
         </record>
 
@@ -967,6 +1258,8 @@
          <record id="20213" model="canton.odoo">
             <field name="Id">13</field>
             <field name="canton.distrito">202</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro de Peñas Blancas</field>
         </record>
 
@@ -976,42 +1269,56 @@
         <record id="20301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Grecia</field>
         </record>
 
         <record id="20302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="20303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San José</field>
         </record>
 
         <record id="20304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Roque</field>
         </record>
 
         <record id="20305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Tacares</field>
         </record>
 
         <record id="20306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Puente Piedra</field>
         </record>
 
         <record id="20307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">203</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Bolívar</field>
         </record>
 
@@ -1020,6 +1327,8 @@
         <record id="20401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">204</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Mateo</field>
         </record>
 
@@ -1028,12 +1337,16 @@
         <record id="20402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">204</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Desmonte</field>
         </record>
 
          <record id="20403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">204</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Jesús María</field>
         </record>
 
@@ -1043,48 +1356,64 @@
         <record id="20501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Atenas</field>
         </record>
 
         <record id="20502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Jesús</field>
         </record>
 
         <record id="20503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Mercedes</field>
         </record>
 
         <record id="20504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="20505" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
         <record id="20506" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San José</field>
         </record>
 
         <record id="20507" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Eulalia</field>
         </record>
 
         <record id="20508" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">205</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Escobal</field>
         </record>
 
@@ -1095,40 +1424,54 @@
         <record id="20601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Naranjo</field>
         </record>
 
         <record id="20602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Miguel</field>
         </record>
 
         <record id="20603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San José</field>
         </record>
         <record id="20604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Cirrí Sur</field>
         </record>
         <record id="20605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Jerónimo</field>
         </record>
 
         <record id="20606" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
         <record id="20607" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">206</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Rosario</field>
         </record>
 
@@ -1137,42 +1480,56 @@
          <record id="20701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">207</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmares</field>
         </record>
 
         <record id="20702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Zaragoza</field>
         </record>
 
         <record id="20703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Buenos Aires</field>
         </record>
 
         <record id="20704" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Santiago</field>
         </record>
 
         <record id="20705" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Candelaria</field>
         </record>
 
         <record id="20706" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Esquipulas</field>
         </record>
 
         <record id="20707" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">207</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">La Granja</field>
         </record>
 
@@ -1183,30 +1540,40 @@
         <record id="20801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">208</field>
-            <field name="name">San Pedro/field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
+            <field name="name">San Pedro</field>
         </record>
 
         <record id="20802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">208</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
         <record id="20803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">208</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
         <record id="20804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">208</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Carrillos</field>
         </record>
 
         <record id="20805" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">208</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Sabana Redonda</field>
         </record>
 
@@ -1217,30 +1584,40 @@
         <record id="20901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">209</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Orotina</field>
         </record>
 
           <record id="20902" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">209</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Mastate</field>
         </record>
 
           <record id="20903" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">209</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Hacienda Vieja</field>
         </record>
 
           <record id="20904" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">209</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Coyolar</field>
         </record>
 
           <record id="20905" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">209</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Ceiba</field>
         </record>
 
@@ -1250,30 +1627,40 @@
         <record id="21001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">210</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Quesada</field>
         </record>
 
          <record id="21002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Florencia</field>
         </record>
 
          <record id="21003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Buenavista</field>
         </record>
 
          <record id="21004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Aguas Zarcas</field>
         </record>
 
          <record id="21005" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Venecia</field>
         </record>
 
@@ -1281,48 +1668,64 @@
          <record id="21006" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Pital</field>
         </record>
 
          <record id="21007" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Fortuna</field>
         </record>
 
          <record id="21008" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Tigra</field>
         </record>
 
          <record id="21009" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmera</field>
         </record>
 
          <record id="21010" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Venado</field>
         </record>
 
          <record id="21011" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Cutris</field>
         </record>
 
          <record id="21012" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Monterrey</field>
         </record>
 
          <record id="21013" model="canton.odoo">
             <field name="Id">13</field>
             <field name="canton.distrito">210</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Pocosol</field>
         </record>
 
@@ -1332,42 +1735,56 @@
         <record id="21101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">211</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Zarcero</field>
         </record>
 
           <record id="21102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Laguna</field>
         </record>
 
           <record id="21103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Tapezco</field>
         </record>
 
           <record id="21104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Guadalupe</field>
         </record>
 
           <record id="21105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmira</field>
         </record>
 
           <record id="21106" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Zapote</field>
         </record>
 
           <record id="21107" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">211</field>
+              <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Brisas</field>
         </record>
 
@@ -1377,30 +1794,40 @@
         <record id="21201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">212</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Sarchí Norte</field>
         </record>
 
         <record id="21202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">212</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Sarchí Sur</field>
         </record>
 
         <record id="21203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">212</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Toro Amarillo</field>
         </record>
 
         <record id="21204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">212</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
         <record id="21205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">212</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Rodríguez</field>
         </record>
 
@@ -1410,42 +1837,58 @@
         <record id="21301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Upala</field>
         </record>
 
         <record id="21302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Aguas Claras</field>
         </record>
 
         <record id="21303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San José o Pizote</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
         </record>
 
         <record id="21304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Bijagua</field>
         </record>
 
         <record id="21305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Delicias</field>
         </record>
 
         <record id="21306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Dos Ríos</field>
         </record>
 
         <record id="21307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">213</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Yolillal</field>
         </record>
 
@@ -1455,24 +1898,32 @@
         <record id="21401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">214</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Los Chiles</field>
         </record>
 
          <record id="21402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">214</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Caño Negro</field>
         </record>
 
          <record id="21403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">214</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Amparo</field>
         </record>
 
          <record id="21404" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">214</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Jorge</field>
         </record>
 
@@ -1481,17 +1932,23 @@
          <record id="21501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">215</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
          <record id="21502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">215</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Buenavista</field>
         </record>
 
          <record id="21503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">215</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Cote</field>
         </record>
 
@@ -1500,19 +1957,25 @@
 
         <record id="21601" model="canton.odoo">
             <field name="Id">01</field>
-            <field name="canton.distrito">216/field>
+            <field name="canton.distrito">216</field>
+            <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Cuarto</field>
         </record>
 
          <record id="21602" model="canton.odoo">
             <field name="Id">02</field>
-            <field name="canton.distrito">216/field>
+            <field name="canton.distrito">216</field>
+             <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Isabel</field>
         </record>
 
          <record id="21603" model="canton.odoo">
             <field name="Id">03</field>
-            <field name="canton.distrito">216/field>
+            <field name="canton.distrito">216/<field>
+                 <field name="state_fk">2</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rita</field>
         </record>
 
@@ -1524,65 +1987,87 @@
         <record id="30101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Oriental</field>
         </record>
 
         <record id="30102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Occidental</field>
         </record>
 
         <record id="30103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Carmen</field>
         </record>
 
         <record id="30104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Nicolás</field>
         </record>
 
         <record id="30105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Aguacaliente</field>
         </record>
 
         <record id="30106" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Guadalupe</field>
         </record>
 
         <record id="30107" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Corralillo</field>
         </record>
 
         <record id="30108" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tierra Blanca</field>
         </record>
 
         <record id="30109" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Dulce Nombre</field>
         </record>
         <record id="30110" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Llano Grande</field>
         </record>
 
         <record id="30111" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">301</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Quebradilla</field>
         </record>
 
@@ -1591,30 +2076,40 @@
         <record id="30201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">302</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Paraíso</field>
         </record>
 
         <record id="30202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">302</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Santiago</field>
         </record>
 
         <record id="30203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">302</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Orosi</field>
         </record>
 
         <record id="30204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">302</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Cachí</field>
         </record>
 
         <record id="30205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">302</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Llanos de Sta Lucia</field>
         </record>
 
@@ -1626,48 +2121,64 @@
         <record id="30301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tres Ríos</field>
         </record>
 
         <record id="30302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Diego</field>
         </record>
 
         <record id="30303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
         <record id="30304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
         <record id="30305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
         <record id="30306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Dulce Nombre</field>
         </record>
 
         <record id="30307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Ramón</field>
         </record>
 
         <record id="30308" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">303</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Azul</field>
         </record>
 
@@ -1677,18 +2188,24 @@
         <record id="30401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">304</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Juan Viñas</field>
         </record>
 
         <record id="30402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">304</field>
-            <field name="name">Tucurrique/field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
+            <field name="name">Tucurrique</field>
         </record>
 
         <record id="30403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">304</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Pejibaye</field>
         </record>
 
@@ -1698,72 +2215,96 @@
         <record id="30501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Turrialba</field>
         </record>
 
         <record id="30502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">La Suiza</field>
         </record>
 
         <record id="30503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Peralta</field>
         </record>
 
         <record id="30504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Cruz</field>
         </record>
 
         <record id="30505" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Teresita</field>
         </record>
 
         <record id="30506" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Pavones</field>
         </record>
 
         <record id="30507" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tuis</field>
         </record>
 
         <record id="30508" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tayutic</field>
         </record>
 
         <record id="30509" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rosa</field>
         </record>
 
         <record id="30510" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tres Equis</field>
         </record>
 
         <record id="30511" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">La Isabel</field>
         </record>
 
         <record id="30512" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">305</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Chirripo</field>
         </record>
 
@@ -1773,18 +2314,24 @@
         <record id="30601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">306</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Pacayas</field>
         </record>
 
          <record id="30602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">306</field>
+             <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Cervantes</field>
         </record>
 
          <record id="30603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">306</field>
+             <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Capellades</field>
         </record>
 
@@ -1794,29 +2341,39 @@
         <record id="30701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">307</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
         <record id="30702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">307</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Cot</field>
         </record>
 
         <record id="30703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">307</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Potrero Cerrado</field>
         </record>
 
         <record id="30704" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">307</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Cipreses</field>
         </record>
 
         <record id="30705" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">307</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rosa</field>
         </record>
 
@@ -1825,24 +2382,32 @@
         <record id="30801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">308</field>
+            <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">El Tejar</field>
         </record>
 
          <record id="30802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">308</field>
+             <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
          <record id="30803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">308</field>
+             <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Tobosi</field>
         </record>
 
          <record id="30804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">308</field>
+             <field name="state_fk">3</field>
+            <field name="country_fk">50</field>
             <field name="name">Patio de Agua</field>
         </record>
 
@@ -1853,30 +2418,40 @@
         <record id="40101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">401</field>
+            <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Heredia</field>
         </record>
 
         <record id="40102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">401</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Mercedes</field>
         </record>
 
         <record id="40103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">401</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Francisco</field>
         </record>
 
         <record id="40104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">401</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Ulloa</field>
         </record>
 
         <record id="40105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">401</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Vara Blanca</field>
         </record>
 
@@ -1885,36 +2460,48 @@
         <record id="40201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Barva</field>
         </record>
 
         <record id="40202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
         <record id="40203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pablo</field>
         </record>
 
         <record id="40204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Roque</field>
         </record>
 
         <record id="40205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Lucía</field>
         </record>
 
         <record id="40206" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">402</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San José de la Montaña</field>
         </record>
 
@@ -1924,48 +2511,64 @@
         <record id="40301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santo Domingo</field>
         </record>
 
         <record id="40302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Vicente</field>
         </record>
 
         <record id="40303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Miguel</field>
         </record>
 
         <record id="40304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Paracito</field>
         </record>
 
         <record id="40305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santo Tomás</field>
         </record>
 
         <record id="40306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rosa</field>
         </record>
 
         <record id="40307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Tures</field>
         </record>
 
         <record id="40308" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">403</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Pará</field>
         </record>
 
@@ -1975,36 +2578,48 @@
         <record id="40401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">404</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Bárbara</field>
         </record>
 
          <record id="40402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">404</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pedro</field>
         </record>
 
          <record id="40403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">404</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan</field>
         </record>
 
          <record id="40404" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">404</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Jesús</field>
         </record>
 
          <record id="40405" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">404</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santo Domingo del Roble</field>
         </record>
 
          <record id="40406" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">404</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Puraba</field>
         </record>
 
@@ -2013,12 +2628,16 @@
          <record id="40501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">405</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Rafael</field>
         </record>
 
         <record id="40502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">405</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Josecito</field>
         </record>
 
@@ -2026,6 +2645,8 @@
         <record id="40503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">405</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Santiago</field>
         </record>
 
@@ -2033,6 +2654,8 @@
         <record id="40504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">405</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Angeles</field>
         </record>
 
@@ -2040,6 +2663,8 @@
         <record id="40505" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">405</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
@@ -2048,24 +2673,32 @@
         <record id="40601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">406</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro</field>
         </record>
 
         <record id="40602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">406</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San José</field>
         </record>
 
         <record id="40603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">406</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Concepción</field>
         </record>
 
         <record id="40604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">406</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Francisco</field>
         </record>
 
@@ -2075,18 +2708,24 @@
         <record id="40701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">407</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Antonio</field>
         </record>
 
         <record id="40702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">407</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">La Rivera</field>
         </record>
 
         <record id="40703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">407</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Asunción</field>
         </record>
 
@@ -2095,18 +2734,24 @@
         <record id="40801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">408</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Joaquín</field>
         </record>
 
         <record id="40802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">408</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Barrantes</field>
         </record>
 
         <record id="40803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">408</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Llorente</field>
         </record>
 
@@ -2116,6 +2761,8 @@
         <record id="40901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">409</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pablo</field>
         </record>
 
@@ -2124,30 +2771,40 @@
         <record id="41001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">410</field>
+              <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Puerto Viejo</field>
         </record>
 
          <record id="41002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">410</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">La Virgen</field>
         </record>
 
          <record id="41003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">410</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Horquetas</field>
         </record>
 
          <record id="41004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">410</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Llanuras del Gaspar</field>
         </record>
 
          <record id="41005" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">410</field>
+               <field name="state_fk">4</field>
+            <field name="country_fk">50</field>
             <field name="name">Cureña</field>
         </record>
 
@@ -2163,30 +2820,40 @@
          <record id="50101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">501</field>
+               <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Liberia</field>
         </record>
 
         <record id="50102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">501</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Cañas Dulces</field>
         </record>
 
         <record id="50103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">501</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Mayorga </field>
         </record>
 
         <record id="50104" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">501</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Nacascolo </field>
         </record>
 
         <record id="50105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">501</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Curubande</field>
         </record>
 
@@ -2198,42 +2865,56 @@
         <record id="50201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">502</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Nicoya </field>
         </record>
 
          <record id="50202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Mansión  </field>
         </record>
 
          <record id="50203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name"> San Antonio </field>
         </record>
 
          <record id="50204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name"> Quebrada Honda </field>
         </record>
 
          <record id="50205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Sámara  </field>
         </record>
 
          <record id="50206" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Nosara  </field>
         </record>
 
          <record id="50207" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">502</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Belén de Nosarita </field>
         </record>
 
@@ -2242,54 +2923,72 @@
         <record id="50301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Cruz</field>
         </record>
 
         <record id="50302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Bolsón </field>
         </record>
 
         <record id="50303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Veintisiete de Abril</field>
         </record>
 
         <record id="50304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Tempate </field>
         </record>
 
         <record id="50305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Cartagena </field>
         </record>
 
         <record id="50306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Cuajiniquil </field>
         </record>
 
         <record id="50307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Diriá </field>
         </record>
 
         <record id="50308" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Cabo Velas</field>
         </record>
 
         <record id="50309" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">503</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Tamarindo</field>
         </record>
 
@@ -2300,22 +2999,30 @@
         <record id="50401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">504</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Bagaces </field>
         </record>
 
         <record id="50402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">504</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Fortuna  </field>
         </record>
         <record id="50403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">504</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Mogote  </field>
         </record>
         <record id="50404" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">504</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Naranjo </field>
         </record>
 
@@ -2328,24 +3035,32 @@
         <record id="50501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">505</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Filadelfia   </field>
         </record>
 
          <record id="50502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">505</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmira  </field>
         </record>
 
          <record id="50503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">505</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Sardinal    </field>
         </record>
 
          <record id="50504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">505</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Belén</field>
         </record>
 
@@ -2355,30 +3070,40 @@
         <record id="50601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">506</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Cañas </field>
         </record>
 
         <record id="50602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">506</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmira  </field>
         </record>
 
         <record id="50603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">506</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">San Miguel </field>
         </record>
 
         <record id="50604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">506</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Bebedero  </field>
         </record>
 
         <record id="50605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">506</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Porozal</field>
         </record>
 
@@ -2389,24 +3114,32 @@
         <record id="50701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">507</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Juntas </field>
         </record>
 
          <record id="50702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">507</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Sierra  </field>
         </record>
 
          <record id="50703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">507</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">San Juan </field>
         </record>
 
          <record id="50704" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">507</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Colorado</field>
         </record>
 
@@ -2417,36 +3150,48 @@
         <record id="50801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">508</field>
+             <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Tilarán </field>
         </record>
 
          <record id="50802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Quebrada Grande </field>
         </record>
 
          <record id="50803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Tronadora  </field>
         </record>
 
          <record id="50804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rosa </field>
         </record>
 
          <record id="50805" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Líbano  </field>
         </record>
 
          <record id="50806" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Tierras Morenas </field>
         </record>
 
@@ -2454,6 +3199,8 @@
          <record id="50807" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">508</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Arenal</field>
         </record>
 
@@ -2464,36 +3211,48 @@
          <record id="50901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Carmona </field>
         </record>
 
          <record id="50902" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Rita </field>
         </record>
 
          <record id="50903" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Zapotal  </field>
         </record>
 
          <record id="50904" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">San Pablo </field>
         </record>
 
          <record id="50905" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Porvenir  </field>
         </record>
 
          <record id="50906" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">509</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Bejuco</field>
         </record>
 
@@ -2504,24 +3263,32 @@
          <record id="51001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">510</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">La Cruz</field>
         </record>
 
          <record id="51002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">510</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Cecilia</field>
         </record>
 
          <record id="51003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">510</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Garita </field>
         </record>
 
          <record id="51004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">510</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Santa Elena</field>
         </record>
 
@@ -2532,24 +3299,32 @@
          <record id="51101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">511</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Hojancha  </field>
         </record>
 
          <record id="51102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">511</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Monte Romo  </field>
         </record>
 
          <record id="51103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">511</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name"> Puerto Carrillo  </field>
         </record>
 
          <record id="51104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">511</field>
+              <field name="state_fk">5</field>
+            <field name="country_fk">50</field>
             <field name="name">Huacas</field>
         </record>
 
@@ -2564,36 +3339,48 @@
          <record id="60101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">601</field>
+              <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Puntarenas </field>
         </record>
 
          <record id="60102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Pitahaya  </field>
         </record>
 
          <record id="60103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Chomes </field>
         </record>
 
          <record id="60104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Lepanto </field>
         </record>
 
          <record id="60105" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Paquera </field>
         </record>
 
          <record id="60106" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Manzanillo </field>
         </record>
 
@@ -2601,60 +3388,80 @@
          <record id="60107" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Guacimal </field>
         </record>
 
          <record id="60108" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Barranca </field>
         </record>
 
          <record id="60109" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Monte Verde </field>
         </record>
 
          <record id="60110" model="canton.odoo">
             <field name="Id">10</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Isla del Coco </field>
         </record>
 
          <record id="60111" model="canton.odoo">
             <field name="Id">11</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Cóbano </field>
         </record>
 
          <record id="60112" model="canton.odoo">
             <field name="Id">12</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Chacarita </field>
         </record>
 
          <record id="60113" model="canton.odoo">
             <field name="Id">13</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Chira(Isla) </field>
         </record>
 
          <record id="60114" model="canton.odoo">
             <field name="Id">14</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Acapulco </field>
         </record>
 
          <record id="60115" model="canton.odoo">
             <field name="Id">15</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">El Roble </field>
         </record>
 
          <record id="60116" model="canton.odoo">
             <field name="Id">16</field>
             <field name="canton.distrito">601</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Arancibia </field>
         </record>
 
@@ -2664,30 +3471,40 @@
         <record id="60201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">602</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Espíritu Santo </field>
         </record>
 
          <record id="60202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">602</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name"> San Juan Grande </field>
         </record>
 
          <record id="60203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">602</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Macacona  </field>
         </record>
 
          <record id="60204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">602</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name"> San Rafael </field>
         </record>
 
          <record id="60205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">602</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name"> San Jerónimo </field>
         </record>
 
@@ -2698,6 +3515,8 @@
         <record id="60301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Buenos Aires  </field>
         </record>
 
@@ -2707,6 +3526,8 @@
         <record id="60302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Volcán   </field>
         </record>
 
@@ -2714,6 +3535,8 @@
         <record id="60303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name"> Potrero Grande  </field>
         </record>
 
@@ -2721,12 +3544,16 @@
         <record id="60304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Boruca   </field>
         </record>
 
         <record id="60305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Pilas   </field>
         </record>
 
@@ -2734,6 +3561,8 @@
         <record id="60306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name"> Colinas o Bajo de Maíz   </field>
         </record>
 
@@ -2741,18 +3570,24 @@
         <record id="60307" model="canton.odoo">
             <field name="Id">07</field>
             <field name="canton.distrito">603</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Chánguena   </field>
         </record>
 
          <record id="60308" model="canton.odoo">
             <field name="Id">08</field>
             <field name="canton.distrito">603</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Bioley   </field>
         </record>
 
          <record id="60309" model="canton.odoo">
             <field name="Id">09</field>
             <field name="canton.distrito">603</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Brunka</field>
         </record>
 
@@ -2762,18 +3597,24 @@
         <record id="60401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">604</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Miramar </field>
         </record>
 
         <record id="60402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">604</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Unión  </field>
         </record>
 
         <record id="60403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">604</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">San Isidro </field>
         </record>
 
@@ -2782,6 +3623,8 @@
          <record id="60501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">605</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Puerto Cortés  </field>
         </record>
 
@@ -2789,24 +3632,32 @@
         <record id="60502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">605</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Palmar   </field>
         </record>
 
         <record id="60503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">605</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Sierpe   </field>
         </record>
 
         <record id="60504" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">605</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Bahía Ballena  </field>
         </record>
 
         <record id="60505" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">605</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Piedras Blancas</field>
         </record>
 
@@ -2816,18 +3667,24 @@
         <record id="60601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">606</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Quepos </field>
         </record>
 
          <record id="60602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">606</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Savegre</field>
         </record>
 
          <record id="60603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">606</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Naranjito</field>
         </record>
 
@@ -2840,6 +3697,8 @@
         <record id="60701" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">607</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Golfito </field>
         </record>
 
@@ -2847,18 +3706,24 @@
         <record id="60702" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">607</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Puerto Jiménez </field>
         </record>
 
         <record id="60703" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">607</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Guaycará  </field>
         </record>
 
         <record id="60704" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">607</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Pavones o Villa Conte </field>
         </record>
 
@@ -2869,30 +3734,40 @@
          <record id="60801" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">608</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">San Vito  </field>
         </record>
 
          <record id="60802" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">608</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Sabalito   </field>
         </record>
 
          <record id="60803" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">608</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Agua Buena  </field>
         </record>
 
          <record id="60804" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">608</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Limoncito   </field>
         </record>
 
          <record id="60805" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">608</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Pittier</field>
         </record>
 
@@ -2902,6 +3777,8 @@
         <record id="60901" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">609</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Parrita</field>
         </record>
 
@@ -2911,24 +3788,32 @@
          <record id="61001" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">610</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Corredores </field>
         </record>
 
          <record id="61002" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">610</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">La Cuesta </field>
         </record>
 
          <record id="61003" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">610</field>
+             }<field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Paso Canoas </field>
         </record>
 
          <record id="61004" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">610</field>
+             <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Laurel</field>
         </record>
 
@@ -2939,12 +3824,16 @@
         <record id="61101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">611</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Jacó </field>
         </record>
 
         <record id="61102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">611</field>
+            <field name="state_fk">6</field>
+            <field name="country_fk">50</field>
             <field name="name">Tárcoles</field>
         </record>
 
@@ -2957,24 +3846,32 @@
          <record id="70101" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">701</field>
+             <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Limón</field>
         </record>
 
          <record id="70102" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">701</field>
+             <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Valle  La Estrella</field>
         </record>
 
          <record id="70103" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">701</field>
+             <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Blanco</field>
         </record>
 
          <record id="70104" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">701</field>
+             <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Matama</field>
         </record>
 
@@ -2984,36 +3881,48 @@
         <record id="70201" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Guápiles </field>
         </record>
 
         <record id="70202" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Jiménez  </field>
         </record>
 
         <record id="70203" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Rita </field>
         </record>
 
         <record id="70204" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Roxana  </field>
         </record>
 
         <record id="70205" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Cariari  </field>
         </record>
 
         <record id="70206" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">702</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Colorado</field>
         </record>
 
@@ -3022,12 +3931,16 @@
         <record id="70301" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Siquirres </field>
         </record>
 
         <record id="70302" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Pacuarito </field>
         </record>
 
@@ -3035,6 +3948,8 @@
         <record id="70303" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Florida </field>
         </record>
 
@@ -3042,6 +3957,8 @@
         <record id="70304" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Germania </field>
         </record>
 
@@ -3049,6 +3966,8 @@
         <record id="70305" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Cairo </field>
         </record>
 
@@ -3056,6 +3975,8 @@
         <record id="70306" model="canton.odoo">
             <field name="Id">06</field>
             <field name="canton.distrito">703</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Alegría</field>
         </record>
 
@@ -3068,24 +3989,32 @@
         <record id="70401" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">704</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Bratsi </field>
         </record>
 
         <record id="70402" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">704</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Sixaola  </field>
         </record>
 
         <record id="70403" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">704</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Cahuita  </field>
         </record>
 
         <record id="70404" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">704</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Telire</field>
         </record>
 
@@ -3095,18 +4024,24 @@
         <record id="70501" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">705</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Matina </field>
         </record>
 
         <record id="70502" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">705</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Batán  </field>
         </record>
 
         <record id="70503" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">705</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Carrandí</field>
         </record>
 
@@ -3115,30 +4050,40 @@
         <record id="70601" model="canton.odoo">
             <field name="Id">01</field>
             <field name="canton.distrito">706</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Guácimo </field>
         </record>
 
         <record id="70602" model="canton.odoo">
             <field name="Id">02</field>
             <field name="canton.distrito">706</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Mercedes </field>
         </record>
 
         <record id="70603" model="canton.odoo">
             <field name="Id">03</field>
             <field name="canton.distrito">706</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Pocora </field>
         </record>
 
         <record id="70604" model="canton.odoo">
             <field name="Id">04</field>
             <field name="canton.distrito">706</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Río Jiménez</field>
         </record>
 
         <record id="70605" model="canton.odoo">
             <field name="Id">05</field>
             <field name="canton.distrito">706</field>
+            <field name="state_fk">7</field>
+            <field name="country_fk">50</field>
             <field name="name">Duacarí</field>
         </record>
 
