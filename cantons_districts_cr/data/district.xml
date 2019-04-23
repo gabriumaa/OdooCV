@@ -4,7 +4,7 @@
 
         <!-- Cantón San José -->
         <record id="district_cr_10101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10101</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -12,7 +12,7 @@
         </record>
 
         <record id="district_cr_10102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10102</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -20,7 +20,7 @@
         </record>
 
         <record id="district_cr_10103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10103</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -28,7 +28,7 @@
         </record>
 
         <record id="district_cr_10104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10104</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -36,7 +36,7 @@
         </record>
 
         <record id="district_cr_10105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10105</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -44,7 +44,7 @@
         </record>
 
         <record id="district_cr_10106" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10106</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -52,7 +52,7 @@
         </record>
 
         <record id="district_cr_10107" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">10107</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -60,7 +60,7 @@
         </record>
 
         <record id="district_cr_10108" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">10108</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -68,7 +68,7 @@
         </record>
 
         <record id="district_cr_10109" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">10109</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -76,7 +76,7 @@
         </record>
 
         <record id="district_cr_10110" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">10110</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -84,7 +84,7 @@
         </record>
 
         <record id="district_cr_10111" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">10111</field>
             <field name="canton_id" ref="canton_cr_101"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -93,7 +93,7 @@
 
         <!-- Cantón Escazú -->
         <record id="district_cr_10201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10201</field>
             <field name="canton_id" ref="canton_cr_102"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -101,15 +101,15 @@
         </record>
 
         <record id="district_cr_10202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10202</field>
             <field name="canton_id" ref="canton_cr_102"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
             <field name="name">San Antonio</field>
         </record>
 
-        <record id="district_cr_10202" model="res.country.state.canton.district">
-            <field name="code">03</field>
+        <record id="district_cr_10203" model="res.country.state.canton.district">
+            <field name="code">10203</field>
             <field name="canton_id" ref="canton_cr_102"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -118,7 +118,7 @@
 
         <!-- Cantón Desamparados -->
         <record id="district_cr_10301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10301</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -126,7 +126,7 @@
         </record>
 
         <record id="district_cr_10302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10302</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -134,7 +134,7 @@
         </record>
 
         <record id="district_cr_10303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10303</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -142,7 +142,7 @@
         </record>
 
         <record id="district_cr_10304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10304</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -150,7 +150,7 @@
         </record>
 
         <record id="district_cr_10305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10305</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -158,7 +158,7 @@
         </record>
 
         <record id="district_cr_10306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10306</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -166,7 +166,7 @@
         </record>
 
         <record id="district_cr_10307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">10307</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -174,7 +174,7 @@
         </record>
 
         <record id="district_cr_10308" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">10308</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -182,7 +182,7 @@
         </record>
 
         <record id="district_cr_10309" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">10309</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -190,7 +190,7 @@
         </record>
 
         <record id="district_cr_10310" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">10310</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -198,7 +198,7 @@
         </record>
 
         <record id="district_cr_10311" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">10311</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -206,7 +206,7 @@
         </record>
 
         <record id="district_cr_10312" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">10312</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -214,7 +214,7 @@
         </record>
 
         <record id="district_cr_10313" model="res.country.state.canton.district">
-            <field name="code">13</field>
+            <field name="code">10313</field>
             <field name="canton_id" ref="canton_cr_103"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -223,7 +223,7 @@
 
         <!-- Cantón Puriscal -->
         <record id="district_cr_10401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10401</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -231,7 +231,7 @@
         </record>
 
         <record id="district_cr_10402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10402</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -239,7 +239,7 @@
         </record>
 
         <record id="district_cr_10403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10403</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -247,7 +247,7 @@
         </record>
 
         <record id="district_cr_10404" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10404</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -255,7 +255,7 @@
         </record>
 
         <record id="district_cr_10405" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10405</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -263,7 +263,7 @@
         </record>
 
         <record id="district_cr_10406" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10406</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -271,7 +271,7 @@
         </record>
 
         <record id="district_cr_10407" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">10407</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -279,7 +279,7 @@
         </record>
 
         <record id="district_cr_10408" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">10408</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -287,7 +287,7 @@
         </record>
 
         <record id="district_cr_10409" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">10409</field>
             <field name="canton_id" ref="canton_cr_104"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -295,7 +295,7 @@
         </record>
 
         <record id="district_cr_10501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10501</field>
             <field name="canton_id" ref="canton_cr_105"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -303,7 +303,7 @@
         </record>
 
         <record id="district_cr_10502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10502</field>
             <field name="canton_id" ref="canton_cr_105"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -311,7 +311,7 @@
         </record>
 
         <record id="district_cr_10503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10503</field>
             <field name="canton_id" ref="canton_cr_105"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -320,7 +320,7 @@
 
         <!-- Cantón Aserrí -->
         <record id="district_cr_10601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10601</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -328,7 +328,7 @@
         </record>
 
         <record id="district_cr_10602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10602</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -336,7 +336,7 @@
         </record>
 
         <record id="district_cr_10603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10603</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -344,7 +344,7 @@
         </record>
 
         <record id="district_cr_10604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10604</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -352,7 +352,7 @@
         </record>
 
         <record id="district_cr_10605" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10605</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -360,7 +360,7 @@
         </record>
 
         <record id="district_cr_10606" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10606</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -368,7 +368,7 @@
         </record>
 
         <record id="district_cr_10607" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">10607</field>
             <field name="canton_id" ref="canton_cr_106"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -377,7 +377,7 @@
 
         <!-- Cantón Mora -->
         <record id="district_cr_10701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10701</field>
             <field name="canton_id" ref="canton_cr_107"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -385,7 +385,7 @@
         </record>
 
         <record id="district_cr_10702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10702</field>
             <field name="canton_id" ref="canton_cr_107"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -393,7 +393,7 @@
         </record>
 
         <record id="district_cr_10703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10703</field>
             <field name="canton_id" ref="canton_cr_107"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -401,7 +401,7 @@
         </record>
 
         <record id="district_cr_10704" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10704</field>
             <field name="canton_id" ref="canton_cr_107"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -409,7 +409,7 @@
         </record>
 
         <record id="district_cr_10705" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10705</field>
             <field name="canton_id" ref="canton_cr_107"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -418,7 +418,7 @@
 
         <!-- Cantón Goicochea -->
         <record id="district_cr_10801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10801</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -426,7 +426,7 @@
         </record>
 
         <record id="district_cr_10802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10802</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -434,7 +434,7 @@
         </record>
 
         <record id="district_cr_10803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10803</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -442,7 +442,7 @@
         </record>
 
         <record id="district_cr_10804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10804</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -450,7 +450,7 @@
         </record>
 
         <record id="district_cr_10805" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10805</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -458,7 +458,7 @@
         </record>
 
         <record id="district_cr_10806" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10806</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -466,7 +466,7 @@
         </record>
 
         <record id="district_cr_10807" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">10807</field>
             <field name="canton_id" ref="canton_cr_108"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -475,7 +475,7 @@
 
         <!-- Cantón Santa Ana -->
         <record id="district_cr_10901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">10901</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -483,7 +483,7 @@
         </record>
 
         <record id="district_cr_10902" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">10902</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -491,7 +491,7 @@
         </record>
 
         <record id="district_cr_10903" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">10903</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -499,7 +499,7 @@
         </record>
 
         <record id="district_cr_10904" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">10904</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -507,7 +507,7 @@
         </record>
 
         <record id="district_cr_10905" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">10905</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -515,7 +515,7 @@
         </record>
 
         <record id="district_cr_10906" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">10906</field>
             <field name="canton_id" ref="canton_cr_109"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -524,7 +524,7 @@
 
         <!-- Cantón Alajuelita -->
         <record id="district_cr_11001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11001</field>
             <field name="canton_id" ref="canton_cr_110"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -532,7 +532,7 @@
         </record>
 
         <record id="district_cr_11002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11002</field>
             <field name="canton_id" ref="canton_cr_110"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -540,7 +540,7 @@
         </record>
 
         <record id="district_cr_11003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11003</field>
             <field name="canton_id" ref="canton_cr_110"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -548,7 +548,7 @@
         </record>
 
         <record id="district_cr_11004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11004</field>
             <field name="canton_id" ref="canton_cr_110"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -556,7 +556,7 @@
         </record>
 
         <record id="district_cr_11005" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11005</field>
             <field name="canton_id" ref="canton_cr_110"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -565,7 +565,7 @@
 
         <!-- Cantón Coronado -->
         <record id="district_cr_11101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11101</field>
             <field name="canton_id" ref="canton_cr_111"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -573,7 +573,7 @@
         </record>
 
         <record id="district_cr_11102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11102</field>
             <field name="canton_id" ref="canton_cr_111"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -581,7 +581,7 @@
         </record>
 
         <record id="district_cr_11103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11103</field>
             <field name="canton_id" ref="canton_cr_111"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -589,7 +589,7 @@
         </record>
 
         <record id="district_cr_11104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11104</field>
             <field name="canton_id" ref="canton_cr_111"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -597,7 +597,7 @@
         </record>
 
         <record id="district_cr_11105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11105</field>
             <field name="canton_id" ref="canton_cr_111"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -606,7 +606,7 @@
 
         <!-- Cantón Acosta -->
         <record id="district_cr_11201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11201</field>
             <field name="canton_id" ref="canton_cr_112"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -614,7 +614,7 @@
         </record>
 
         <record id="district_cr_11202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11202</field>
             <field name="canton_id" ref="canton_cr_112"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -622,7 +622,7 @@
         </record>
 
         <record id="district_cr_11203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11203</field>
             <field name="canton_id" ref="canton_cr_112"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -630,7 +630,7 @@
         </record>
 
         <record id="district_cr_11204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11204</field>
             <field name="canton_id" ref="canton_cr_112"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -638,7 +638,7 @@
         </record>
 
         <record id="district_cr_11205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11205</field>
             <field name="canton_id" ref="canton_cr_112"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -647,7 +647,7 @@
 
         <!-- Cantón Tibás -->
         <record id="district_cr_11301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11301</field>
             <field name="canton_id" ref="canton_cr_113"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -655,7 +655,7 @@
         </record>
 
         <record id="district_cr_11302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11302</field>
             <field name="canton_id" ref="canton_cr_113"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -663,7 +663,7 @@
         </record>
 
         <record id="district_cr_11303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11303</field>
             <field name="canton_id" ref="canton_cr_113"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -671,7 +671,7 @@
         </record>
 
         <record id="district_cr_11304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11304</field>
             <field name="canton_id" ref="canton_cr_113"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -679,7 +679,7 @@
         </record>
 
         <record id="district_cr_11305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11305</field>
             <field name="canton_id" ref="canton_cr_113"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -688,7 +688,7 @@
 
         <!-- Cantón Moravia -->
         <record id="district_cr_11401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11401</field>
             <field name="canton_id" ref="canton_cr_114"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -696,7 +696,7 @@
         </record>
 
         <record id="district_cr_11402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11402</field>
             <field name="canton_id" ref="canton_cr_114"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -705,7 +705,7 @@
 
 
          <record id="district_cr_11403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11403</field>
             <field name="canton_id" ref="canton_cr_114"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -714,7 +714,7 @@
 
         <!-- Cantón Montes de Oca -->
         <record id="district_cr_11501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11501</field>
             <field name="canton_id" ref="canton_cr_115"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -722,7 +722,7 @@
         </record>
 
         <record id="district_cr_11502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11502</field>
             <field name="canton_id" ref="canton_cr_115"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -730,7 +730,7 @@
         </record>
 
         <record id="district_cr_11503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11503</field>
             <field name="canton_id" ref="canton_cr_115"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -738,7 +738,7 @@
         </record>
 
         <record id="district_cr_11504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11504</field>
             <field name="canton_id" ref="canton_cr_115"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -747,7 +747,7 @@
 
         <!-- Cantón Turrubares -->
         <record id="district_cr_11601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11601</field>
             <field name="canton_id" ref="canton_cr_116"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -755,7 +755,7 @@
         </record>
 
         <record id="district_cr_11602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11602</field>
             <field name="canton_id" ref="canton_cr_116"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -763,7 +763,7 @@
         </record>
 
         <record id="district_cr_11603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11603</field>
             <field name="canton_id" ref="canton_cr_116"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -771,7 +771,7 @@
         </record>
 
         <record id="district_cr_11604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11604</field>
             <field name="canton_id" ref="canton_cr_116"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -779,7 +779,7 @@
         </record>
 
         <record id="district_cr_11605" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11605</field>
             <field name="canton_id" ref="canton_cr_116"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -788,7 +788,7 @@
 
         <!-- Cantón Dota -->
         <record id="district_cr_11701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11701</field>
             <field name="canton_id" ref="canton_cr_117"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -796,7 +796,7 @@
         </record>
 
         <record id="district_cr_11702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11702</field>
             <field name="canton_id" ref="canton_cr_117"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -804,7 +804,7 @@
         </record>
 
         <record id="district_cr_11703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11703</field>
             <field name="canton_id" ref="canton_cr_117"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -813,7 +813,7 @@
 
         <!-- Cantón Curridabat -->
         <record id="district_cr_11801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11801</field>
             <field name="canton_id" ref="canton_cr_118"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -821,7 +821,7 @@
         </record>
 
         <record id="district_cr_11802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11802</field>
             <field name="canton_id" ref="canton_cr_118"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -829,7 +829,7 @@
         </record>
 
         <record id="district_cr_11803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11803</field>
             <field name="canton_id" ref="canton_cr_118"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -837,7 +837,7 @@
         </record>
 
         <record id="district_cr_11804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11804</field>
             <field name="canton_id" ref="canton_cr_118"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -846,7 +846,7 @@
 
         <!-- Cantón Pérez Zeledón -->
         <record id="district_cr_11901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">11901</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -854,7 +854,7 @@
         </record>
 
         <record id="district_cr_11902" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">11902</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -862,7 +862,7 @@
         </record>
 
         <record id="district_cr_11903" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">11903</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -870,7 +870,7 @@
         </record>
 
         <record id="district_cr_11904" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">11904</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -878,7 +878,7 @@
         </record>
 
         <record id="district_cr_11905" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">11905</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -886,7 +886,7 @@
         </record>
 
         <record id="district_cr_11906" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">11906</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -894,7 +894,7 @@
         </record>
 
         <record id="district_cr_11907" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">11907</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -902,7 +902,7 @@
         </record>
 
         <record id="district_cr_11908" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">11908</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -910,7 +910,7 @@
         </record>
 
         <record id="district_cr_11909" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">11909</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -918,7 +918,7 @@
         </record>
 
         <record id="district_cr_11910" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">11910</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -926,7 +926,7 @@
         </record>
 
         <record id="district_cr_11911" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">11911</field>
             <field name="canton_id" ref="canton_cr_119"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -935,7 +935,7 @@
 
         <!-- Cantón León Cortés -->
         <record id="district_cr_12001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">12001</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -943,7 +943,7 @@
         </record>
 
         <record id="district_cr_12002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">12002</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -951,7 +951,7 @@
         </record>
 
         <record id="district_cr_12003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">12003</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -959,7 +959,7 @@
         </record>
 
         <record id="district_cr_12004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">12004</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -967,7 +967,7 @@
         </record>
 
         <record id="district_cr_12005" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">12005</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -975,7 +975,7 @@
         </record>
 
         <record id="district_cr_12006" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">12006</field>
             <field name="canton_id" ref="canton_cr_120"/>
             <field name="state_id" ref="state_cr_1"/>
             <field name="country_id" ref="base.cr"/>
@@ -986,7 +986,7 @@
 
         <!-- Cantón Alajuela -->
         <record id="district_cr_20101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20101</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -994,7 +994,7 @@
         </record>
 
         <record id="district_cr_20102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20102</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1002,7 +1002,7 @@
         </record>
 
         <record id="district_cr_20103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20103</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1010,7 +1010,7 @@
         </record>
 
         <record id="district_cr_20104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20104</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1018,7 +1018,7 @@
         </record>
 
         <record id="district_cr_20105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20105</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1026,7 +1026,7 @@
         </record>
 
         <record id="district_cr_20106" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20106</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1034,7 +1034,7 @@
         </record>
 
         <record id="district_cr_20107" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20107</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1042,7 +1042,7 @@
         </record>
 
         <record id="district_cr_20108" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">20108</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1050,7 +1050,7 @@
         </record>
 
         <record id="district_cr_20109" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">20109</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1058,7 +1058,7 @@
         </record>
 
         <record id="district_cr_20110" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">20110</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1066,7 +1066,7 @@
         </record>
 
         <record id="district_cr_20111" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">20111</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1074,7 +1074,7 @@
         </record>
 
         <record id="district_cr_20112" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">20112</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1082,7 +1082,7 @@
         </record>
 
         <record id="district_cr_20113" model="res.country.state.canton.district">
-            <field name="code">13</field>
+            <field name="code">20113</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1090,7 +1090,7 @@
         </record>
 
         <record id="district_cr_20114" model="res.country.state.canton.district">
-            <field name="code">14</field>
+            <field name="code">20114</field>
             <field name="canton_id" ref="canton_cr_201"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1099,7 +1099,7 @@
 
         <!-- Cantón San Ramón -->
         <record id="district_cr_20201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20201</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1107,7 +1107,7 @@
         </record>
 
         <record id="district_cr_20202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20202</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1115,7 +1115,7 @@
         </record>
 
         <record id="district_cr_20203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20203</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1123,7 +1123,7 @@
         </record>
 
         <record id="district_cr_20204" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20204</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1131,7 +1131,7 @@
         </record>
 
         <record id="district_cr_20205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20205</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1139,7 +1139,7 @@
         </record>
 
         <record id="district_cr_20206" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20206</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1147,7 +1147,7 @@
         </record>
 
         <record id="district_cr_20207" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20207</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1155,7 +1155,7 @@
         </record>
 
         <record id="district_cr_20208" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">20208</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1163,7 +1163,7 @@
         </record>
 
         <record id="district_cr_20209" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">20209</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1171,7 +1171,7 @@
         </record>
 
         <record id="district_cr_20210" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">20210</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1179,7 +1179,7 @@
         </record>
 
         <record id="district_cr_20211" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">20211</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1187,7 +1187,7 @@
         </record>
 
         <record id="district_cr_20212" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">20212</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1195,7 +1195,7 @@
         </record>
 
         <record id="district_cr_20213" model="res.country.state.canton.district">
-            <field name="code">13</field>
+            <field name="code">20213</field>
             <field name="canton_id" ref="canton_cr_202"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1204,7 +1204,7 @@
 
         <!-- Cantón Grecia -->
         <record id="district_cr_20301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20301</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1212,7 +1212,7 @@
         </record>
 
         <record id="district_cr_20302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20302</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1220,7 +1220,7 @@
         </record>
 
         <record id="district_cr_20303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20303</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1228,7 +1228,7 @@
         </record>
 
         <record id="district_cr_20304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20304</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1236,7 +1236,7 @@
         </record>
 
         <record id="district_cr_20305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20305</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1244,7 +1244,7 @@
         </record>
 
         <record id="district_cr_20306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20306</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1252,7 +1252,7 @@
         </record>
 
         <record id="district_cr_20307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20307</field>
             <field name="canton_id" ref="canton_cr_203"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1261,7 +1261,7 @@
 
        <!-- Cantón San Mateo -->
        <record id="district_cr_20401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20401</field>
             <field name="canton_id" ref="canton_cr_204"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1269,7 +1269,7 @@
        </record>
 
        <record id="district_cr_20402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20402</field>
             <field name="canton_id" ref="canton_cr_204"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1277,7 +1277,7 @@
        </record>
 
        <record id="district_cr_20403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20403</field>
             <field name="canton_id" ref="canton_cr_204"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1286,7 +1286,7 @@
 
        <!-- Cantón Atenas-->
        <record id="district_cr_20501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20501</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1294,7 +1294,7 @@
        </record>
 
        <record id="district_cr_20502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20502</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1302,7 +1302,7 @@
        </record>
 
        <record id="district_cr_20503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20503</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1310,7 +1310,7 @@
        </record>
 
        <record id="district_cr_20504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20504</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1318,7 +1318,7 @@
        </record>
 
        <record id="district_cr_20505" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20505</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1326,7 +1326,7 @@
        </record>
 
        <record id="district_cr_20506" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20506</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1334,7 +1334,7 @@
        </record>
 
        <record id="district_cr_20507" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20507</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1342,7 +1342,7 @@
        </record>
 
        <record id="district_cr_20508" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">20508</field>
             <field name="canton_id" ref="canton_cr_205"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1351,7 +1351,7 @@
 
        <!-- Cantón Naranjo -->
        <record id="district_cr_20601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20601</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1359,7 +1359,7 @@
        </record>
 
        <record id="district_cr_20602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20602</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1367,7 +1367,7 @@
        </record>
 
        <record id="district_cr_20603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20603</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1375,7 +1375,7 @@
        </record>
 
        <record id="district_cr_20604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20604</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1383,7 +1383,7 @@
        </record>
 
        <record id="district_cr_20605" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20605</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1391,7 +1391,7 @@
        </record>
 
        <record id="district_cr_20606" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20606</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1399,7 +1399,7 @@
        </record>
 
        <record id="district_cr_20607" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20607</field>
             <field name="canton_id" ref="canton_cr_206"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1408,7 +1408,7 @@
 
        <!-- Cantón Palmares -->
        <record id="district_cr_20701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20701</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1416,7 +1416,7 @@
        </record>
 
        <record id="district_cr_20702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20702</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1424,7 +1424,7 @@
        </record>
 
        <record id="district_cr_20703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20703</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1432,7 +1432,7 @@
        </record>
 
        <record id="district_cr_20704" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20704</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1440,7 +1440,7 @@
        </record>
 
        <record id="district_cr_20705" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20705</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1448,7 +1448,7 @@
        </record>
 
        <record id="district_cr_20706" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">20706</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1456,7 +1456,7 @@
        </record>
 
        <record id="district_cr_20707" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">20707</field>
             <field name="canton_id" ref="canton_cr_207"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1465,7 +1465,7 @@
 
        <!-- Cantón Poás -->
        <record id="district_cr_20801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20801</field>
             <field name="canton_id" ref="canton_cr_208"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1473,7 +1473,7 @@
        </record>
 
        <record id="district_cr_20802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20802</field>
             <field name="canton_id" ref="canton_cr_208"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1481,7 +1481,7 @@
        </record>
 
        <record id="district_cr_20803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20803</field>
             <field name="canton_id" ref="canton_cr_208"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1489,7 +1489,7 @@
        </record>
 
        <record id="district_cr_20804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20804</field>
             <field name="canton_id" ref="canton_cr_208"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1497,7 +1497,7 @@
        </record>
 
        <record id="district_cr_20805" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20805</field>
             <field name="canton_id" ref="canton_cr_208"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1506,7 +1506,7 @@
 
        <!-- Cantón Orotina -->
        <record id="district_cr_20901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">20901</field>
             <field name="canton_id" ref="canton_cr_209"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1514,7 +1514,7 @@
        </record>
 
        <record id="district_cr_20902" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">20902</field>
             <field name="canton_id" ref="canton_cr_209"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1522,7 +1522,7 @@
        </record>
 
        <record id="district_cr_20903" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">20903</field>
             <field name="canton_id" ref="canton_cr_209"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1530,7 +1530,7 @@
        </record>
 
        <record id="district_cr_20904" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">20904</field>
             <field name="canton_id" ref="canton_cr_209"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1538,7 +1538,7 @@
        </record>
 
        <record id="district_cr_20905" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">20905</field>
             <field name="canton_id" ref="canton_cr_209"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1547,7 +1547,7 @@
 
        <!-- Cantón San Carlos -->
        <record id="district_cr_21001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21001</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1555,7 +1555,7 @@
        </record>
 
        <record id="district_cr_21002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21002</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1563,7 +1563,7 @@
        </record>
 
        <record id="district_cr_21003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21003</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1571,7 +1571,7 @@
        </record>
 
        <record id="district_cr_21004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">21004</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1579,7 +1579,7 @@
        </record>
 
        <record id="district_cr_21005" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">21005</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1587,7 +1587,7 @@
        </record>
 
        <record id="district_cr_21006" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">21006</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1595,7 +1595,7 @@
        </record>
 
        <record id="district_cr_21007" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">21007</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1603,7 +1603,7 @@
        </record>
 
        <record id="district_cr_21008" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">21008</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1611,7 +1611,7 @@
        </record>
 
        <record id="district_cr_21009" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">21009</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1619,7 +1619,7 @@
        </record>
 
        <record id="district_cr_21010" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">21010</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1627,7 +1627,7 @@
        </record>
 
        <record id="district_cr_21011" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">21011</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1635,7 +1635,7 @@
        </record>
 
        <record id="district_cr_21012" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">21012</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1643,7 +1643,7 @@
        </record>
 
        <record id="district_cr_21013" model="res.country.state.canton.district">
-            <field name="code">13</field>
+            <field name="code">21013</field>
             <field name="canton_id" ref="canton_cr_210"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1652,7 +1652,7 @@
 
        <!-- Cantón Alfaro Ruiz-->
        <record id="district_cr_21101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21101</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1660,7 +1660,7 @@
        </record>
 
        <record id="district_cr_21102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21102</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1668,7 +1668,7 @@
        </record>
 
        <record id="district_cr_21103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21103</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1676,7 +1676,7 @@
        </record>
 
        <record id="district_cr_21104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">21104</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1684,7 +1684,7 @@
        </record>
 
        <record id="district_cr_21105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">21105</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1692,7 +1692,7 @@
        </record>
 
        <record id="district_cr_21106" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">21106</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1700,7 +1700,7 @@
        </record>
 
        <record id="district_cr_21107" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">21107</field>
             <field name="canton_id" ref="canton_cr_211"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1709,7 +1709,7 @@
 
        <!-- Cantón Valverde Vega -->
        <record id="district_cr_21201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21201</field>
             <field name="canton_id" ref="canton_cr_212"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1717,7 +1717,7 @@
        </record>
 
        <record id="district_cr_21202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21202</field>
             <field name="canton_id" ref="canton_cr_212"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1725,7 +1725,7 @@
        </record>
 
        <record id="district_cr_21203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21203</field>
             <field name="canton_id" ref="canton_cr_212"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1733,7 +1733,7 @@
        </record>
 
        <record id="district_cr_21204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">21204</field>
             <field name="canton_id" ref="canton_cr_212"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1741,7 +1741,7 @@
        </record>
 
        <record id="district_cr_21205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">21205</field>
             <field name="canton_id" ref="canton_cr_212"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1750,7 +1750,7 @@
 
        <!-- Cantón Upala -->
        <record id="district_cr_21301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21301</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1758,7 +1758,7 @@
        </record>
 
        <record id="district_cr_21302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21302</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1766,7 +1766,7 @@
        </record>
 
        <record id="district_cr_21303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21303</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1774,7 +1774,7 @@
        </record>
 
        <record id="district_cr_21304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">21304</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1782,7 +1782,7 @@
        </record>
 
        <record id="district_cr_21305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">21305</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1790,7 +1790,7 @@
        </record>
 
        <record id="district_cr_21306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">21306</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1798,7 +1798,7 @@
        </record>
 
        <record id="district_cr_21307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">21307</field>
             <field name="canton_id" ref="canton_cr_213"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1807,7 +1807,7 @@
 
        <!-- Cantón Los Chiles -->
        <record id="district_cr_21401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21401</field>
             <field name="canton_id" ref="canton_cr_214"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1815,7 +1815,7 @@
        </record>
 
        <record id="district_cr_21402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21402</field>
             <field name="canton_id" ref="canton_cr_214"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1823,7 +1823,7 @@
        </record>
 
        <record id="district_cr_21403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21403</field>
             <field name="canton_id" ref="canton_cr_214"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1831,7 +1831,7 @@
        </record>
 
        <record id="district_cr_21404" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">21404</field>
             <field name="canton_id" ref="canton_cr_214"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1840,7 +1840,7 @@
 
        <!-- Cantón Guatuso -->
        <record id="district_cr_21501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21501</field>
             <field name="canton_id" ref="canton_cr_215"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1848,7 +1848,7 @@
        </record>
 
        <record id="district_cr_21502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21502</field>
             <field name="canton_id" ref="canton_cr_215"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1856,7 +1856,7 @@
        </record>
 
        <record id="district_cr_21503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21503</field>
             <field name="canton_id" ref="canton_cr_215"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1865,7 +1865,7 @@
 
        <!-- Cantón Río Cuarto -->
        <record id="district_cr_21601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">21601</field>
             <field name="canton_id" ref="canton_cr_216"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1873,7 +1873,7 @@
        </record>
 
        <record id="district_cr_21602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">21602</field>
             <field name="canton_id" ref="canton_cr_216"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1881,7 +1881,7 @@
        </record>
 
        <record id="district_cr_21603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">21603</field>
             <field name="canton_id" ref="canton_cr_216"/>
             <field name="state_id" ref="state_cr_2"/>
             <field name="country_id" ref="base.cr"/>
@@ -1892,7 +1892,7 @@
 
        <!-- Cantón Cartago -->
        <record id="district_cr_30101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30101</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1900,7 +1900,7 @@
        </record>
 
        <record id="district_cr_30102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30102</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1908,7 +1908,7 @@
        </record>
 
        <record id="district_cr_30103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30103</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1916,7 +1916,7 @@
        </record>
 
        <record id="district_cr_30104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30104</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1924,7 +1924,7 @@
        </record>
 
        <record id="district_cr_30105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">30105</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1932,7 +1932,7 @@
        </record>
 
        <record id="district_cr_30106" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">30106</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1940,7 +1940,7 @@
        </record>
 
        <record id="district_cr_30107" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">30107</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1948,7 +1948,7 @@
        </record>
 
        <record id="district_cr_30108" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">30108</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1956,7 +1956,7 @@
        </record>
 
        <record id="district_cr_30109" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">30109</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1964,7 +1964,7 @@
        </record>
 
        <record id="district_cr_30110" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">30110</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1972,7 +1972,7 @@
        </record>
 
        <record id="district_cr_30111" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">30111</field>
             <field name="canton_id" ref="canton_cr_301"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1981,7 +1981,7 @@
 
        <!-- Cantón Paraiso -->
        <record id="district_cr_30201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30201</field>
             <field name="canton_id" ref="canton_cr_302"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1989,7 +1989,7 @@
        </record>
 
        <record id="district_cr_30202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30202</field>
             <field name="canton_id" ref="canton_cr_302"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -1997,7 +1997,7 @@
        </record>
 
        <record id="district_cr_30203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30203</field>
             <field name="canton_id" ref="canton_cr_302"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2005,7 +2005,7 @@
        </record>
 
        <record id="district_cr_30204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30204</field>
             <field name="canton_id" ref="canton_cr_302"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2013,7 +2013,7 @@
        </record>
 
        <record id="district_cr_30205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">30205</field>
             <field name="canton_id" ref="canton_cr_302"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2022,7 +2022,7 @@
 
        <!-- Cantón La Unión -->
        <record id="district_cr_30301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30301</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2030,7 +2030,7 @@
        </record>
 
        <record id="district_cr_30302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30302</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2038,7 +2038,7 @@
        </record>
 
        <record id="district_cr_30303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30303</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2046,7 +2046,7 @@
        </record>
 
        <record id="district_cr_30304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30304</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2054,7 +2054,7 @@
        </record>
 
        <record id="district_cr_30305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">30305</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2062,7 +2062,7 @@
        </record>
 
        <record id="district_cr_30306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">30306</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2070,7 +2070,7 @@
        </record>
 
        <record id="district_cr_30307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">30307</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2078,7 +2078,7 @@
        </record>
 
        <record id="district_cr_30308" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">30308</field>
             <field name="canton_id" ref="canton_cr_303"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2087,7 +2087,7 @@
 
        <!-- Cantón Jiménez -->
        <record id="district_cr_30401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30401</field>
             <field name="canton_id" ref="canton_cr_304"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2095,7 +2095,7 @@
        </record>
 
        <record id="district_cr_30402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30402</field>
             <field name="canton_id" ref="canton_cr_304"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2103,7 +2103,7 @@
        </record>
 
        <record id="district_cr_30403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30403</field>
             <field name="canton_id" ref="canton_cr_304"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2112,7 +2112,7 @@
 
        <!-- Cantón Turrialba -->
        <record id="district_cr_30501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30501</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2120,7 +2120,7 @@
        </record>
 
        <record id="district_cr_30502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30502</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2128,7 +2128,7 @@
        </record>
 
        <record id="district_cr_30503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30503</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2136,7 +2136,7 @@
        </record>
 
        <record id="district_cr_30504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30504</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2144,7 +2144,7 @@
        </record>
 
        <record id="district_cr_30505" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">30505</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2152,7 +2152,7 @@
        </record>
 
        <record id="district_cr_30506" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">30506</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2160,7 +2160,7 @@
        </record>
 
        <record id="district_cr_30507" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">30507</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2168,7 +2168,7 @@
        </record>
 
        <record id="district_cr_30508" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">30508</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2176,7 +2176,7 @@
        </record>
 
        <record id="district_cr_30509" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">30509</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2184,7 +2184,7 @@
        </record>
 
        <record id="district_cr_30510" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">30510</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2192,7 +2192,7 @@
        </record>
 
        <record id="district_cr_30511" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">30511</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2200,7 +2200,7 @@
        </record>
 
        <record id="district_cr_30512" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">30512</field>
             <field name="canton_id" ref="canton_cr_305"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2209,7 +2209,7 @@
 
        <!-- Cantón Alvarado -->
        <record id="district_cr_30601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30601</field>
             <field name="canton_id" ref="canton_cr_306"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2217,7 +2217,7 @@
        </record>
 
        <record id="district_cr_30602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30602</field>
             <field name="canton_id" ref="canton_cr_306"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2225,7 +2225,7 @@
        </record>
 
        <record id="district_cr_30603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30603</field>
             <field name="canton_id" ref="canton_cr_306"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2234,7 +2234,7 @@
 
        <!-- Cantón Oreamuno-->
        <record id="district_cr_30701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30701</field>
             <field name="canton_id" ref="canton_cr_307"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2242,7 +2242,7 @@
        </record>
 
        <record id="district_cr_30702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30702</field>
             <field name="canton_id" ref="canton_cr_307"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2250,7 +2250,7 @@
        </record>
 
        <record id="district_cr_30703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30703</field>
             <field name="canton_id" ref="canton_cr_307"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2258,7 +2258,7 @@
        </record>
 
        <record id="district_cr_30704" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30704</field>
             <field name="canton_id" ref="canton_cr_307"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2266,7 +2266,7 @@
        </record>
 
        <record id="district_cr_30705" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">30705</field>
             <field name="canton_id" ref="canton_cr_307"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2275,7 +2275,7 @@
 
        <!-- Cantón El Guarco -->
        <record id="district_cr_30801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">30801</field>
             <field name="canton_id" ref="canton_cr_308"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2283,7 +2283,7 @@
        </record>
 
        <record id="district_cr_30802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">30802</field>
             <field name="canton_id" ref="canton_cr_308"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2291,7 +2291,7 @@
        </record>
 
        <record id="district_cr_30803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">30803</field>
             <field name="canton_id" ref="canton_cr_308"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2299,7 +2299,7 @@
        </record>
 
        <record id="district_cr_30804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">30804</field>
             <field name="canton_id" ref="canton_cr_308"/>
             <field name="state_id" ref="state_cr_3"/>
             <field name="country_id" ref="base.cr"/>
@@ -2310,7 +2310,7 @@
 
        <!-- Cantón Heredia -->
        <record id="district_cr_40101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40101</field>
             <field name="canton_id" ref="canton_cr_401"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2318,7 +2318,7 @@
        </record>
 
        <record id="district_cr_40102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40102</field>
             <field name="canton_id" ref="canton_cr_401"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2326,7 +2326,7 @@
        </record>
 
        <record id="district_cr_40103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40103</field>
             <field name="canton_id" ref="canton_cr_401"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2334,7 +2334,7 @@
        </record>
 
        <record id="district_cr_40104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40104</field>
             <field name="canton_id" ref="canton_cr_401"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2342,7 +2342,7 @@
        </record>
 
        <record id="district_cr_40105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">40105</field>
             <field name="canton_id" ref="canton_cr_401"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2351,7 +2351,7 @@
 
        <!-- Cantón Barva -->
        <record id="district_cr_40201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40201</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2359,7 +2359,7 @@
        </record>
 
        <record id="district_cr_40202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40202</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2367,7 +2367,7 @@
        </record>
 
        <record id="district_cr_40203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40203</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2375,7 +2375,7 @@
        </record>
 
        <record id="district_cr_40204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40204</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2383,7 +2383,7 @@
        </record>
 
        <record id="district_cr_40205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">40205</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2391,7 +2391,7 @@
        </record>
 
        <record id="district_cr_40206" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">40206</field>
             <field name="canton_id" ref="canton_cr_402"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2400,7 +2400,7 @@
 
        <!-- Cantón Santo Domingo -->
        <record id="district_cr_40301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40301</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2408,7 +2408,7 @@
        </record>
 
        <record id="district_cr_40302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40302</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2416,7 +2416,7 @@
        </record>
 
        <record id="district_cr_40303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40303</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2424,7 +2424,7 @@
        </record>
 
        <record id="district_cr_40304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40304</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2432,7 +2432,7 @@
        </record>
 
        <record id="district_cr_40305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">40305</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2440,7 +2440,7 @@
        </record>
 
        <record id="district_cr_40306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">40306</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2448,7 +2448,7 @@
        </record>
 
        <record id="district_cr_40307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">40307</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2456,7 +2456,7 @@
        </record>
 
        <record id="district_cr_40308" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">40308</field>
             <field name="canton_id" ref="canton_cr_403"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2465,7 +2465,7 @@
 
        <!-- Cantón Santa Barbara -->
        <record id="district_cr_40401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40401</field>
             <field name="canton_id" ref="canton_cr_404"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2473,7 +2473,7 @@
        </record>
 
        <record id="district_cr_40402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40402</field>
             <field name="canton_id" ref="canton_cr_404"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2481,7 +2481,7 @@
        </record>
 
        <record id="district_cr_40403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40403</field>
             <field name="canton_id" ref="canton_cr_404"/>
              <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2489,7 +2489,7 @@
        </record>
 
        <record id="district_cr_40404" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40404</field>
             <field name="canton_id" ref="canton_cr_404"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2497,7 +2497,7 @@
        </record>
 
        <record id="district_cr_40405" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">40405</field>
             <field name="canton_id" ref="canton_cr_404"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2505,7 +2505,7 @@
        </record>
 
        <record id="district_cr_40406" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">40406</field>
             <field name="canton_id" ref="canton_cr_404"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2514,7 +2514,7 @@
 
        <!-- Cantón San Rafael -->
        <record id="district_cr_40501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40501</field>
             <field name="canton_id" ref="canton_cr_405"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2522,7 +2522,7 @@
        </record>
 
        <record id="district_cr_40502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40502</field>
             <field name="canton_id" ref="canton_cr_405"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2530,7 +2530,7 @@
        </record>
 
        <record id="district_cr_40503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40503</field>
             <field name="canton_id" ref="canton_cr_405"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2538,7 +2538,7 @@
        </record>
 
        <record id="district_cr_40504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40504</field>
             <field name="canton_id" ref="canton_cr_405"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2546,7 +2546,7 @@
        </record>
 
        <record id="district_cr_40505" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">40505</field>
             <field name="canton_id" ref="canton_cr_405"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2555,7 +2555,7 @@
 
        <!-- Cantón San Isidro -->
        <record id="district_cr_40601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40601</field>
             <field name="canton_id" ref="canton_cr_406"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2563,7 +2563,7 @@
        </record>
 
        <record id="district_cr_40602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40602</field>
             <field name="canton_id" ref="canton_cr_406"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2571,7 +2571,7 @@
        </record>
 
        <record id="district_cr_40603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40603</field>
             <field name="canton_id" ref="canton_cr_406"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2579,7 +2579,7 @@
        </record>
 
        <record id="district_cr_40604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">40604</field>
             <field name="canton_id" ref="canton_cr_406"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2588,7 +2588,7 @@
 
        <!-- Cantón Belén -->
        <record id="district_cr_40701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40701</field>
             <field name="canton_id" ref="canton_cr_407"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2596,7 +2596,7 @@
        </record>
 
        <record id="district_cr_40702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40702</field>
             <field name="canton_id" ref="canton_cr_407"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2604,7 +2604,7 @@
        </record>
 
        <record id="district_cr_40703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40703</field>
             <field name="canton_id" ref="canton_cr_407"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2613,7 +2613,7 @@
 
        <!-- Cantón Flores -->
        <record id="district_cr_40801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40801</field>
             <field name="canton_id" ref="canton_cr_408"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2621,7 +2621,7 @@
        </record>
 
        <record id="district_cr_40802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">40802</field>
             <field name="canton_id" ref="canton_cr_408"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2629,7 +2629,7 @@
        </record>
 
        <record id="district_cr_40803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">40803</field>
             <field name="canton_id" ref="canton_cr_408"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2638,7 +2638,7 @@
 
        <!-- Cantón San Pablo -->
        <record id="district_cr_40901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">40901</field>
             <field name="canton_id" ref="canton_cr_409"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2647,7 +2647,7 @@
 
        <!-- Cantón Sarapiquí -->
        <record id="district_cr_41001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">41001</field>
             <field name="canton_id" ref="canton_cr_410"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2655,7 +2655,7 @@
        </record>
 
        <record id="district_cr_41002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">41002</field>
             <field name="canton_id" ref="canton_cr_410"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2663,7 +2663,7 @@
        </record>
 
        <record id="district_cr_41003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">41003</field>
             <field name="canton_id" ref="canton_cr_410"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2671,7 +2671,7 @@
        </record>
 
        <record id="district_cr_41004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">41004</field>
             <field name="canton_id" ref="canton_cr_410"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2679,7 +2679,7 @@
        </record>
 
        <record id="district_cr_41005" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">41005</field>
             <field name="canton_id" ref="canton_cr_410"/>
             <field name="state_id" ref="state_cr_4"/>
             <field name="country_id" ref="base.cr"/>
@@ -2690,7 +2690,7 @@
 
        <!-- Cantón Liberia -->
        <record id="district_cr_50101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50101</field>
             <field name="canton_id" ref="canton_cr_501"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2698,7 +2698,7 @@
        </record>
 
        <record id="district_cr_50102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50102</field>
             <field name="canton_id" ref="canton_cr_501"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2706,7 +2706,7 @@
        </record>
 
        <record id="district_cr_50103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50103</field>
             <field name="canton_id" ref="canton_cr_501"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2714,7 +2714,7 @@
        </record>
 
        <record id="district_cr_50104" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50104</field>
             <field name="canton_id" ref="canton_cr_501"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2722,7 +2722,7 @@
        </record>
 
        <record id="district_cr_50105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50105</field>
             <field name="canton_id" ref="canton_cr_501"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2731,7 +2731,7 @@
 
        <!-- Cantón Nicoya -->
        <record id="district_cr_50201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50201</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2739,7 +2739,7 @@
        </record>
 
        <record id="district_cr_50202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50202</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2747,7 +2747,7 @@
        </record>
 
        <record id="district_cr_50203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50203</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2755,7 +2755,7 @@
        </record>
 
        <record id="district_cr_50204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50204</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2763,7 +2763,7 @@
        </record>
 
        <record id="district_cr_50205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50205</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2771,7 +2771,7 @@
        </record>
 
        <record id="district_cr_50206" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">50206</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2779,7 +2779,7 @@
        </record>
 
        <record id="district_cr_50207" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">50207</field>
             <field name="canton_id" ref="canton_cr_502"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2788,7 +2788,7 @@
 
        <!-- Cantón Santa Cruz -->
        <record id="district_cr_50301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50301</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2796,7 +2796,7 @@
        </record>
 
        <record id="district_cr_50302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50302</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2804,7 +2804,7 @@
        </record>
 
        <record id="district_cr_50303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50303</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2812,7 +2812,7 @@
        </record>
 
        <record id="district_cr_50304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50304</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2820,7 +2820,7 @@
        </record>
 
        <record id="district_cr_50305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50305</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2828,7 +2828,7 @@
        </record>
 
        <record id="district_cr_50306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">50306</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2836,7 +2836,7 @@
        </record>
 
        <record id="district_cr_50307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">50307</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2844,7 +2844,7 @@
        </record>
 
        <record id="district_cr_50308" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">50308</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2852,7 +2852,7 @@
        </record>
 
        <record id="district_cr_50309" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">50309</field>
             <field name="canton_id" ref="canton_cr_503"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2861,7 +2861,7 @@
 
        <!-- Cantón Bagaces -->
        <record id="district_cr_50401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50401</field>
             <field name="canton_id" ref="canton_cr_504"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2869,7 +2869,7 @@
        </record>
 
        <record id="district_cr_50402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50402</field>
             <field name="canton_id" ref="canton_cr_504"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2877,7 +2877,7 @@
        </record>
 
        <record id="district_cr_50403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50403</field>
             <field name="canton_id" ref="canton_cr_504"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2885,7 +2885,7 @@
        </record>
 
        <record id="district_cr_50404" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50404</field>
             <field name="canton_id" ref="canton_cr_504"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2894,7 +2894,7 @@
 
        <!-- Cantón Carrillo -->
        <record id="district_cr_50501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50501</field>
             <field name="canton_id" ref="canton_cr_505"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2902,7 +2902,7 @@
        </record>
 
        <record id="district_cr_50502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50502</field>
             <field name="canton_id" ref="canton_cr_505"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2910,7 +2910,7 @@
        </record>
 
        <record id="district_cr_50503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50503</field>
             <field name="canton_id" ref="canton_cr_505"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2918,7 +2918,7 @@
        </record>
 
        <record id="district_cr_50504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50504</field>
             <field name="canton_id" ref="canton_cr_505"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2927,7 +2927,7 @@
 
        <!-- Cantón Cañas -->
        <record id="district_cr_50601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50601</field>
             <field name="canton_id" ref="canton_cr_506"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2935,7 +2935,7 @@
        </record>
 
        <record id="district_cr_50602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50602</field>
             <field name="canton_id" ref="canton_cr_506"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2943,7 +2943,7 @@
        </record>
 
        <record id="district_cr_50603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50603</field>
             <field name="canton_id" ref="canton_cr_506"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2951,7 +2951,7 @@
        </record>
 
        <record id="district_cr_50604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50604</field>
             <field name="canton_id" ref="canton_cr_506"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2959,7 +2959,7 @@
        </record>
 
        <record id="district_cr_50605" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50605</field>
             <field name="canton_id" ref="canton_cr_506"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2968,7 +2968,7 @@
 
        <!-- Cantón Abangares -->
        <record id="district_cr_50701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50701</field>
             <field name="canton_id" ref="canton_cr_507"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2976,7 +2976,7 @@
        </record>
 
        <record id="district_cr_50702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50702</field>
             <field name="canton_id" ref="canton_cr_507"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2984,7 +2984,7 @@
        </record>
 
        <record id="district_cr_50703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50703</field>
             <field name="canton_id" ref="canton_cr_507"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -2992,7 +2992,7 @@
        </record>
 
        <record id="district_cr_50704" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50704</field>
             <field name="canton_id" ref="canton_cr_507"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3001,7 +3001,7 @@
 
        <!-- Cantón Tilarán -->
        <record id="district_cr_50801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50801</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3009,7 +3009,7 @@
        </record>
 
        <record id="district_cr_50802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50802</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3017,7 +3017,7 @@
        </record>
 
        <record id="district_cr_50803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50803</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3025,7 +3025,7 @@
        </record>
 
        <record id="district_cr_50804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50804</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3033,7 +3033,7 @@
        </record>
 
        <record id="district_cr_50805" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50805</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3041,7 +3041,7 @@
        </record>
 
        <record id="district_cr_50806" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">50806</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3049,7 +3049,7 @@
        </record>
 
        <record id="district_cr_50807" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">50807</field>
             <field name="canton_id" ref="canton_cr_508"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3058,7 +3058,7 @@
 
         <!-- Cantón Nandayure -->
         <record id="district_cr_50901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">50901</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3066,7 +3066,7 @@
         </record>
 
         <record id="district_cr_50902" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">50902</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3074,7 +3074,7 @@
         </record>
 
         <record id="district_cr_50903" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">50903</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3082,7 +3082,7 @@
         </record>
 
         <record id="district_cr_50904" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">50904</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3090,7 +3090,7 @@
         </record>
 
         <record id="district_cr_50905" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">50905</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3098,7 +3098,7 @@
         </record>
 
         <record id="district_cr_50906" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">50906</field>
             <field name="canton_id" ref="canton_cr_509"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3107,7 +3107,7 @@
 
         <!-- Cantón La Cruz -->
         <record id="district_cr_51001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">51001</field>
             <field name="canton_id" ref="canton_cr_510"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3115,7 +3115,7 @@
         </record>
 
         <record id="district_cr_51002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">51002</field>
             <field name="canton_id" ref="canton_cr_510"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3123,7 +3123,7 @@
         </record>
 
         <record id="district_cr_51003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">51003</field>
             <field name="canton_id" ref="canton_cr_510"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3131,7 +3131,7 @@
         </record>
 
         <record id="district_cr_51004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">51004</field>
             <field name="canton_id" ref="canton_cr_510"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3140,7 +3140,7 @@
 
         <!-- Cantón Hojancha -->
         <record id="district_cr_51101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">51101</field>
             <field name="canton_id" ref="canton_cr_511"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3148,7 +3148,7 @@
         </record>
 
         <record id="district_cr_51102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">51102</field>
             <field name="canton_id" ref="canton_cr_511"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3156,7 +3156,7 @@
         </record>
 
         <record id="district_cr_51103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">51103</field>
             <field name="canton_id" ref="canton_cr_511"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3164,7 +3164,7 @@
         </record>
 
         <record id="district_cr_51104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">51104</field>
             <field name="canton_id" ref="canton_cr_511"/>
             <field name="state_id" ref="state_cr_5"/>
             <field name="country_id" ref="base.cr"/>
@@ -3175,7 +3175,7 @@
 
         <!-- Cantón Puntarenas -->
         <record id="district_cr_60101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60101</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3183,7 +3183,7 @@
         </record>
 
         <record id="district_cr_60102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60102</field>
             <field name="canton_id" ref="canton_cr_601"/>
              <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3191,7 +3191,7 @@
         </record>
 
         <record id="district_cr_60103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60103</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3199,7 +3199,7 @@
         </record>
 
         <record id="district_cr_60104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60104</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3207,7 +3207,7 @@
         </record>
 
         <record id="district_cr_60105" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">60105</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3215,7 +3215,7 @@
         </record>
 
         <record id="district_cr_60106" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">60106</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3223,7 +3223,7 @@
         </record>
 
         <record id="district_cr_60107" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">60107</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3231,7 +3231,7 @@
         </record>
 
         <record id="district_cr_60108" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">60108</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3239,7 +3239,7 @@
         </record>
 
         <record id="district_cr_60109" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">60109</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3247,7 +3247,7 @@
         </record>
 
         <record id="district_cr_60110" model="res.country.state.canton.district">
-            <field name="code">10</field>
+            <field name="code">60110</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3255,7 +3255,7 @@
         </record>
 
         <record id="district_cr_60111" model="res.country.state.canton.district">
-            <field name="code">11</field>
+            <field name="code">60111</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3263,7 +3263,7 @@
         </record>
 
         <record id="district_cr_60112" model="res.country.state.canton.district">
-            <field name="code">12</field>
+            <field name="code">60112</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3271,7 +3271,7 @@
         </record>
 
         <record id="district_cr_60113" model="res.country.state.canton.district">
-            <field name="code">13</field>
+            <field name="code">60113</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3279,7 +3279,7 @@
         </record>
 
         <record id="district_cr_60114" model="res.country.state.canton.district">
-            <field name="code">14</field>
+            <field name="code">60114</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3287,7 +3287,7 @@
         </record>
 
         <record id="district_cr_60115" model="res.country.state.canton.district">
-            <field name="code">15</field>
+            <field name="code">60115</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3295,7 +3295,7 @@
         </record>
 
         <record id="district_cr_60116" model="res.country.state.canton.district">
-            <field name="code">16</field>
+            <field name="code">60116</field>
             <field name="canton_id" ref="canton_cr_601"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3304,7 +3304,7 @@
 
         <!-- Cantón Esparza -->
         <record id="district_cr_60201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60201</field>
             <field name="canton_id" ref="canton_cr_602"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3312,7 +3312,7 @@
         </record>
 
         <record id="district_cr_60202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60202</field>
             <field name="canton_id" ref="canton_cr_602"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3320,7 +3320,7 @@
         </record>
 
         <record id="district_cr_60203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60203</field>
             <field name="canton_id" ref="canton_cr_602"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3328,7 +3328,7 @@
         </record>
 
         <record id="district_cr_60204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60204</field>
             <field name="canton_id" ref="canton_cr_602"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3336,7 +3336,7 @@
         </record>
 
         <record id="district_cr_60205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">60205</field>
             <field name="canton_id" ref="canton_cr_602"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3345,7 +3345,7 @@
 
         <!-- Cantón Buenos Aires -->
         <record id="district_cr_60301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60301</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3353,7 +3353,7 @@
         </record>
 
         <record id="district_cr_60302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60302</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3361,7 +3361,7 @@
         </record>
 
         <record id="district_cr_60303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60303</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3369,7 +3369,7 @@
         </record>
 
         <record id="district_cr_60304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60304</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3377,7 +3377,7 @@
         </record>
 
         <record id="district_cr_60305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">60305</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3385,7 +3385,7 @@
         </record>
 
         <record id="district_cr_60306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">60306</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3393,7 +3393,7 @@
         </record>
 
         <record id="district_cr_60307" model="res.country.state.canton.district">
-            <field name="code">07</field>
+            <field name="code">60307</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3401,7 +3401,7 @@
         </record>
 
         <record id="district_cr_60308" model="res.country.state.canton.district">
-            <field name="code">08</field>
+            <field name="code">60308</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3409,7 +3409,7 @@
         </record>
 
         <record id="district_cr_60309" model="res.country.state.canton.district">
-            <field name="code">09</field>
+            <field name="code">60309</field>
             <field name="canton_id" ref="canton_cr_603"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3418,7 +3418,7 @@
 
         <!-- Cantón Montes de Oro -->
         <record id="district_cr_60401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60401</field>
             <field name="canton_id" ref="canton_cr_604"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3426,7 +3426,7 @@
         </record>
 
         <record id="district_cr_60402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60402</field>
             <field name="canton_id" ref="canton_cr_604"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3434,7 +3434,7 @@
         </record>
 
         <record id="district_cr_60403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60403</field>
             <field name="canton_id" ref="canton_cr_604"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3443,7 +3443,7 @@
 
         <!-- Cantón Osa -->
         <record id="district_cr_60501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60501</field>
             <field name="canton_id" ref="canton_cr_605"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3451,7 +3451,7 @@
         </record>
 
         <record id="district_cr_60502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60502</field>
             <field name="canton_id" ref="canton_cr_605"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3459,7 +3459,7 @@
         </record>
 
         <record id="district_cr_60503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60503</field>
             <field name="canton_id" ref="canton_cr_605"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3467,7 +3467,7 @@
         </record>
 
         <record id="district_cr_60504" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60504</field>
             <field name="canton_id" ref="canton_cr_605"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3475,7 +3475,7 @@
         </record>
 
         <record id="district_cr_60505" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">60505</field>
             <field name="canton_id" ref="canton_cr_605"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3484,7 +3484,7 @@
 
         <!-- Cantón Aguirre -->
         <record id="district_cr_60601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60601</field>
             <field name="canton_id" ref="canton_cr_606"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3492,7 +3492,7 @@
         </record>
 
         <record id="district_cr_60602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60602</field>
             <field name="canton_id" ref="canton_cr_606"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3500,7 +3500,7 @@
         </record>
 
         <record id="district_cr_60603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60603</field>
             <field name="canton_id" ref="canton_cr_606"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3509,7 +3509,7 @@
 
         <!-- Cantón Golfito -->
         <record id="district_cr_60701" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60701</field>
             <field name="canton_id" ref="canton_cr_607"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3517,7 +3517,7 @@
         </record>
 
         <record id="district_cr_60702" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60702</field>
             <field name="canton_id" ref="canton_cr_607"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3525,7 +3525,7 @@
         </record>
 
         <record id="district_cr_60703" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60703</field>
             <field name="canton_id" ref="canton_cr_607"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3533,7 +3533,7 @@
         </record>
 
         <record id="district_cr_60704" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60704</field>
             <field name="canton_id" ref="canton_cr_607"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3542,7 +3542,7 @@
 
         <!-- Cantón Coto Brus -->
         <record id="district_cr_60801" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60801</field>
             <field name="canton_id" ref="canton_cr_608"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3550,7 +3550,7 @@
         </record>
 
         <record id="district_cr_60802" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">60802</field>
             <field name="canton_id" ref="canton_cr_608"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3558,7 +3558,7 @@
         </record>
 
         <record id="district_cr_60803" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">60803</field>
             <field name="canton_id" ref="canton_cr_608"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3566,7 +3566,7 @@
         </record>
 
         <record id="district_cr_60804" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">60804</field>
             <field name="canton_id" ref="canton_cr_608"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3574,7 +3574,7 @@
         </record>
 
         <record id="district_cr_60805" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">60805</field>
             <field name="canton_id" ref="canton_cr_608"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3583,7 +3583,7 @@
 
         <!-- Cantón Parrita -->
         <record id="district_cr_60901" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">60901</field>
             <field name="canton_id" ref="canton_cr_609"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3592,7 +3592,7 @@
 
         <!-- Cantón Corredores -->
         <record id="district_cr_61001" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">61001</field>
             <field name="canton_id" ref="canton_cr_610"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3600,7 +3600,7 @@
         </record>
 
         <record id="district_cr_61002" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">61002</field>
             <field name="canton_id" ref="canton_cr_610"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3608,7 +3608,7 @@
         </record>
 
         <record id="district_cr_61003" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">61003</field>
             <field name="canton_id" ref="canton_cr_610"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3616,7 +3616,7 @@
         </record>
 
         <record id="district_cr_61004" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">61004</field>
             <field name="canton_id" ref="canton_cr_610"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3625,7 +3625,7 @@
 
         <!-- Cantón Garabito -->
         <record id="district_cr_61101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">61101</field>
             <field name="canton_id" ref="canton_cr_611"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3633,7 +3633,7 @@
         </record>
 
         <record id="district_cr_61102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">61102</field>
             <field name="canton_id" ref="canton_cr_611"/>
             <field name="state_id" ref="state_cr_6"/>
             <field name="country_id" ref="base.cr"/>
@@ -3644,7 +3644,7 @@
 
         <!-- Cantón Limón -->
         <record id="district_cr_70101" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70101</field>
             <field name="canton_id" ref="canton_cr_701"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3652,7 +3652,7 @@
         </record>
 
         <record id="district_cr_70102" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70102</field>
             <field name="canton_id" ref="canton_cr_701"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3660,7 +3660,7 @@
         </record>
 
         <record id="district_cr_70103" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70103</field>
             <field name="canton_id" ref="canton_cr_701"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3668,7 +3668,7 @@
         </record>
 
         <record id="district_cr_70104" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">70104</field>
             <field name="canton_id" ref="canton_cr_701"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3677,7 +3677,7 @@
 
         <!-- Cantón Pococí -->
         <record id="district_cr_70201" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70201</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3685,7 +3685,7 @@
         </record>
 
         <record id="district_cr_70202" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70202</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3693,7 +3693,7 @@
         </record>
 
         <record id="district_cr_70203" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70203</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3701,7 +3701,7 @@
         </record>
 
         <record id="district_cr_70204" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">70204</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3709,7 +3709,7 @@
         </record>
 
         <record id="district_cr_70205" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">70205</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3717,7 +3717,7 @@
         </record>
 
         <record id="district_cr_70206" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">70206</field>
             <field name="canton_id" ref="canton_cr_702"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3726,7 +3726,7 @@
 
         <!-- Cantón Siquirres -->
         <record id="district_cr_70301" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70301</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3734,7 +3734,7 @@
         </record>
 
         <record id="district_cr_70302" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70302</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3742,7 +3742,7 @@
         </record>
 
         <record id="district_cr_70303" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70303</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3750,7 +3750,7 @@
         </record>
 
         <record id="district_cr_70304" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">70304</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3758,7 +3758,7 @@
         </record>
 
         <record id="district_cr_70305" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">70305</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3766,7 +3766,7 @@
         </record>
 
         <record id="district_cr_70306" model="res.country.state.canton.district">
-            <field name="code">06</field>
+            <field name="code">70306</field>
             <field name="canton_id" ref="canton_cr_703"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3775,7 +3775,7 @@
 
         <!-- Cantón Talamanca -->
         <record id="district_cr_70401" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70401</field>
             <field name="canton_id" ref="canton_cr_704"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3783,7 +3783,7 @@
         </record>
 
         <record id="district_cr_70402" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70402</field>
             <field name="canton_id" ref="canton_cr_704"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3791,7 +3791,7 @@
         </record>
 
         <record id="district_cr_70403" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70403</field>
             <field name="canton_id" ref="canton_cr_704"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3799,7 +3799,7 @@
         </record>
 
         <record id="district_cr_70404" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">70404</field>
             <field name="canton_id" ref="canton_cr_704"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3808,7 +3808,7 @@
 
         <!-- Cantón Matina -->
         <record id="district_cr_70501" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70501</field>
             <field name="canton_id" ref="canton_cr_705"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3816,7 +3816,7 @@
         </record>
 
         <record id="district_cr_70502" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70502</field>
             <field name="canton_id" ref="canton_cr_705"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3824,7 +3824,7 @@
         </record>
 
         <record id="district_cr_70503" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70503</field>
             <field name="canton_id" ref="canton_cr_705"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3833,7 +3833,7 @@
 
         <!-- Cantón Guácimo -->
         <record id="district_cr_70601" model="res.country.state.canton.district">
-            <field name="code">01</field>
+            <field name="code">70601</field>
             <field name="canton_id" ref="canton_cr_706"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3841,7 +3841,7 @@
         </record>
 
         <record id="district_cr_70602" model="res.country.state.canton.district">
-            <field name="code">02</field>
+            <field name="code">70602</field>
             <field name="canton_id" ref="canton_cr_706"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3849,7 +3849,7 @@
         </record>
 
         <record id="district_cr_70603" model="res.country.state.canton.district">
-            <field name="code">03</field>
+            <field name="code">70603</field>
             <field name="canton_id" ref="canton_cr_706"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3857,7 +3857,7 @@
         </record>
 
         <record id="district_cr_70604" model="res.country.state.canton.district">
-            <field name="code">04</field>
+            <field name="code">70604</field>
             <field name="canton_id" ref="canton_cr_706"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
@@ -3865,7 +3865,7 @@
         </record>
 
         <record id="district_cr_70605" model="res.country.state.canton.district">
-            <field name="code">05</field>
+            <field name="code">70605</field>
             <field name="canton_id" ref="canton_cr_706"/>
             <field name="state_id" ref="state_cr_7"/>
             <field name="country_id" ref="base.cr"/>
