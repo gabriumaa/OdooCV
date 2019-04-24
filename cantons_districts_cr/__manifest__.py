@@ -18,12 +18,14 @@
     'version': "1.1",
 
     # any module necessary for this one to work correctly
-    'depends': ["base", "contacts"],
+    'depends': ["base", "crm", "contacts"],
 
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
         "views/canton_district.xml",
+        "views/inherit_crm.xml",
+        "views/inherit_contact.xml",
         "data/state.xml",
         "data/canton.xml",
         "data/district.xml"
