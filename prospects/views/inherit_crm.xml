@@ -1,0 +1,72 @@
+<odoo>
+    <data>
+        <record id="inherit_crm_case_form_view_leads" model="ir.ui.view">
+            <field name="name">Prospectos formulario CRM</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.crm_case_form_view_leads"/>
+            <field name="arch" type="xml">
+                <xpath expr="//label[@for='name']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='partner_name']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//label[@for='contact_name']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='function']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='email_from']" position="replace"/>
+                <xpath expr="//field[@name='website']" position="replace"/>
+                <xpath expr="//field[@name='name']" position="attributes">
+                    <attribute name="placeholder">Nombre o razón social</attribute>
+                </xpath>
+                <xpath expr="//field[@name='user_id']" position="attributes">
+                    <attribute name="string">Agente</attribute>
+                </xpath>
+                <xpath expr="//field[@name='phone']" position="attributes">
+                    <attribute name="placeholder">Por ejemplo, 22221111</attribute>
+                </xpath>
+                <xpath expr="//field[@name='mobile']" position="attributes">
+                    <attribute name="placeholder">Por ejemplo, 88884444</attribute>
+                </xpath>
+                <xpath expr="//field[@name='mobile']" position="after">
+                    <field name="email_from" placeholder="Por ejemplo, odoo@odoo.com"/>
+                </xpath>
+                <xpath expr="//field[@name='email_from']" position="after">
+                    <field name="website" placeholder="Por ejemplo, odoo.com"/>
+                </xpath>
+                <xpath expr="//field[@name='name']" position="before">
+                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': true}"/>
+                </xpath>
+                <xpath expr="//field[@name='partner_id']" position="after">
+                    <field name="vat" placeholder="Por ejemplo, ESA00000000"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_address_format']" position="after">
+                    <label for="nise"/>
+                    <div class="o_row">
+                        <field name="electric_company" nolabel="1"/>
+                        <field name="nise" nolabel="1"/>
+                    </div>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="after">
+                    <label for="node" string="Sector"/>
+                    <div class="o_row">
+                        <field name="node" placeholder="Nodo" nolabel="1"/>
+                        <field name="plate" placeholder="Placa" nolabel="1"/>
+                    </div>
+                </xpath>
+                <xpath expr="//field[@name='phone']" position="before">
+                    <field name="occupation"/>
+                </xpath>
+                <xpath expr="//field[@name='mobile']" position="after">
+                    <field name="other_phone" placeholder="Por ejemplo, 22221111"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
