@@ -1,0 +1,24 @@
+<odoo>
+    <data noupdate="0">
+        <!-- Grupo Norteamérica -->
+        <record id="north_america" model="res.country.group">
+            <field name="name">Norteamérica</field>
+            <field name="country_ids" eval="[(6,0,[
+                ref('base.bm'),ref('base.ca'),ref('base.gl'),ref('base.mx'),ref('base.pm'),
+                ref('base.us')])]"/>
+        </record>
+
+        <!-- Grupo Centroamérica​ y el Caribe -->
+        <record id="central_america_and_caribbean" model="res.country.group">
+            <field name="name">Centroamérica​ y el Caribe​</field>
+            <field name="country_ids" eval="[(6,0,[
+                ref('base.ai'),ref('base.ag'),ref('base.aw'),ref('base.bb'),ref('base.bz'),
+                ref('base.bq'),ref('base.vg'),ref('base.ky'),ref('base.cr'),ref('base.cu'),
+                ref('base.cw'),ref('base.dm'),ref('base.do'),ref('base.sv'),ref('base.gd'),
+                ref('base.gp'),ref('base.gt'),ref('base.ht'),ref('base.hn'),ref('base.jm'),
+                ref('base.mq'),ref('base.ms'),ref('base.ni'),ref('base.pa'),ref('base.pr'),
+                ref('base.bl'),ref('base.kn'),ref('base.lc'),ref('base.mf'),ref('base.vc'),
+                ref('base.sx'),ref('base.bs'),ref('base.tt'),ref('base.tc'),ref('base.vi')])]"/>
+        </record>
+    </data>
+</odoo>

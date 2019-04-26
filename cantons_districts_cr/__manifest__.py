@@ -26,6 +26,7 @@
         "views/canton_district.xml",
         "views/inherit_crm.xml",
         "views/inherit_contact.xml",
+        "data/america_countries_group.xml",
         "data/state.xml",
         "data/canton.xml",
         "data/district.xml"
