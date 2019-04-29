@@ -24,7 +24,8 @@
     "data": [
         "security/ir.model.access.csv",
         "views/canton_district.xml",
-        "views/inherit_crm.xml",
+        "views/inherit_crm_lead.xml",
+        "views/inherit_crm_opportunity.xml",
         "views/inherit_contact.xml",
         "data/america_countries_group.xml",
         "data/state.xml",
