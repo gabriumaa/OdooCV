@@ -8,18 +8,16 @@
                 <xpath expr="//field[@name='street2']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
-                <xpath expr="//field[@name='city']" position="attributes">
-                    <attribute name="invisible">1</attribute>
-                </xpath>
                 <xpath expr="//field[@name='zip']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
+                <xpath expr="//field[@name='city']" position="replace"/>
                 <xpath expr="//field[@name='state_id']" position="replace"/>
                 <xpath expr="//field[@name='country_id']" position="replace"/>
                 <xpath expr="//field[@name='street']" position="after">
                     <div class="o_row">
                         <field name="district_id" placeholder="Distrito" nolabel="1"/>
-                        <field name="canton_id" placeholder="Cantón" nolabel="1"/>
+                        <field name="city" placeholder="Cantón" nolabel="1"/>
                     </div>
                     <span class="oe_read_only"><![CDATA[&nbsp;&nbsp;]]></span>
                     <div class="o_row">
