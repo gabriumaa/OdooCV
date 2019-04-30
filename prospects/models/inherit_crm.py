@@ -12,5 +12,5 @@ class inheritCrm(models.Model):
     nise = fields.Char( string="NISE" )
     node = fields.Char( string="Nodo" )
     plate = fields.Char( string="Placa" )
-    other_phone = fields.Char( string="Otro" )
-    occupation = fields.Many2one( comodel_name="res.partner.industry", string="Ocupación" )
+    other_phone = fields.Char( string="Otro teléfono" )
+    function = fields.Many2one( comodel_name="res.partner.industry", string="Ocupación" )
