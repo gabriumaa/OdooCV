@@ -1,5 +1,25 @@
 <odoo>
     <data>
+        <record id="inherit_crm_case_tree_view_leads" model="ir.ui.view">
+            <field name="name">Prospectos árbol CRM iniciativas</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.crm_case_tree_view_leads"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='contact_name']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='country_id']" position="attributes">
+                    <attribute name="invisible">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='city']" position="attributes">
+                    <attribute name="string">Cantón</attribute>
+                </xpath>
+                <xpath expr="//field[@name='city']" position="before">
+                    <field name="district_id"/>
+                </xpath>
+            </field>
+        </record>
+
         <record id="inherit_crm_case_form_view_leads" model="ir.ui.view">
             <field name="name">Prospectos formulario CRM iniciativas</field>
             <field name="model">crm.lead</field>
