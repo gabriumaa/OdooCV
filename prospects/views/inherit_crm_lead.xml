@@ -37,22 +37,16 @@
                 <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
-                <xpath expr="//field[@name='email_from']" position="replace"/>
                 <xpath expr="//field[@name='website']" position="replace"/>
+                <xpath expr="//field[@name='function']" position="replace"/>
+                <xpath expr="//field[@name='phone']" position="replace"/>
+                <xpath expr="//field[@name='mobile']" position="replace"/>
+                <xpath expr="//field[@name='description']" position="replace"/>
                 <xpath expr="//field[@name='name']" position="attributes">
                     <attribute name="placeholder">Nombre o razón social</attribute>
                 </xpath>
-                <xpath expr="//field[@name='phone']" position="attributes">
-                    <attribute name="placeholder">Por ejemplo, 22221111</attribute>
-                </xpath>
-                <xpath expr="//field[@name='mobile']" position="attributes">
-                    <attribute name="placeholder">Por ejemplo, 88884444</attribute>
-                </xpath>
-                <xpath expr="//field[@name='mobile']" position="after">
-                    <field name="email_from" placeholder="Por ejemplo, odoo@odoo.com"/>
-                </xpath>
-                <xpath expr="//field[@name='email_from']" position="after">
-                    <field name="website" placeholder="Por ejemplo, www.odoo.com"/>
+                <xpath expr="//field[@name='email_from']" position="attributes">
+                    <attribute name="placeholder">Por ejemplo, odoo@odoo.com</attribute>
                 </xpath>
                 <xpath expr="//field[@name='name']" position="before">
                     <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': true}"/>
@@ -74,8 +68,34 @@
                         <field name="plate" placeholder="Placa" nolabel="1"/>
                     </div>
                 </xpath>
+                <xpath expr="//label[@for='email_from']" position="before">
+                    <field name="function"/>
+                </xpath>
+                <xpath expr="//field[@name='function']" position="after">
+                    <field name="phone" placeholder="Por ejemplo, 22221111"/>
+                </xpath>
+                <xpath expr="//field[@name='phone']" position="after">
+                    <field name="mobile" placeholder="Por ejemplo, 88884444"/>
+                </xpath>
                 <xpath expr="//field[@name='mobile']" position="after">
                     <field name="other_phone" placeholder="Por ejemplo, 22221111"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[contains(@class, 'o_row') and contains(@class, 'o_row_readonly')]" position="after">
+                    <field name="website" placeholder="Por ejemplo, www.odoo.com"/>
+                </xpath>
+                <xpath expr="//form/sheet/notebook/page[1]" position="inside">
+                    <group string="Servicios de interés">
+                        <field name="product_ids" nolabel="1" widget="many2many">
+                           <tree>
+                              <field name="default_code"/>
+                              <field name="name"/>
+                              <field name="lst_price"/>
+                           </tree>
+                        </field>
+                    </group>
+                    <group string="Detalles adicionales">
+                        <field name="description" nolabel="1"/>
+                    </group>
                 </xpath>
             </field>
         </record>
