@@ -68,7 +68,7 @@
                         <field name="plate" placeholder="Placa" nolabel="1"/>
                     </div>
                 </xpath>
-                <xpath expr="//label[@for='email_from']" position="before">
+                <xpath expr="//field[@name='is_blacklisted']" position="before">
                     <field name="function"/>
                 </xpath>
                 <xpath expr="//field[@name='function']" position="after">
@@ -85,12 +85,12 @@
                 </xpath>
                 <xpath expr="//form/sheet/notebook/page[1]" position="inside">
                     <group string="Servicios de interés">
-                        <field name="product_ids" nolabel="1" widget="many2many">
-                           <tree>
-                              <field name="default_code"/>
-                              <field name="name"/>
-                              <field name="lst_price"/>
-                           </tree>
+                        <field name="product_ids" nolabel="1">
+                            <tree>
+                                <field name="default_code"/>
+                                <field name="name"/>
+                                <field name="lst_price"/>
+                            </tree>
                         </field>
                     </group>
                     <group string="Detalles adicionales">
