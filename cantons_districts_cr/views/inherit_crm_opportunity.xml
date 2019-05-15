@@ -16,13 +16,13 @@
                 <xpath expr="//field[@name='country_id']" position="replace"/>
                 <xpath expr="//field[@name='street']" position="after">
                     <div class="o_row">
-                        <field name="district_id" placeholder="Distrito" nolabel="1"/>
-                        <field name="city" placeholder="Cantón" nolabel="1"/>
+                        <field name="country_id" placeholder="País" nolabel="1"/>
+                        <field name="state_id" domain="[('country_id','=',country_id)]" placeholder="Provincia" nolabel="1"/>
                     </div>
                     <span class="oe_read_only"><![CDATA[&nbsp;&nbsp;]]></span>
                     <div class="o_row">
-                        <field name="state_id" domain="[('country_id','=',country_id)]" placeholder="Provincia" nolabel="1"/>
-                        <field name="country_id" placeholder="País" nolabel="1"/>
+                        <field name="city" placeholder="Cantón" nolabel="1"/>
+                        <field name="district_id" placeholder="Distrito" nolabel="1"/>
                     </div>
                 </xpath>
             </field>
