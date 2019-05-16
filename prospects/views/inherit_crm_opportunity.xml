@@ -27,6 +27,12 @@
                 <xpath expr="//field[@name='name']" position="attributes">
                     <attribute name="placeholder">Nombre o razón social</attribute>
                 </xpath>
+                <xpath expr="//field[@name='planned_revenue']" position="attributes">
+                    <attribute name="readonly">1</attribute>
+                </xpath>
+                <xpath expr="//field[@name='probability']" position="attributes">
+                    <attribute name="readonly">1</attribute>
+                </xpath>
                 <xpath expr="//field[@name='mobile']" position="attributes">
                     <attribute name="placeholder">Por ejemplo, 88884444</attribute>
                 </xpath>

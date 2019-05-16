@@ -42,6 +42,11 @@
                 <xpath expr="//field[@name='phone']" position="replace"/>
                 <xpath expr="//field[@name='mobile']" position="replace"/>
                 <xpath expr="//field[@name='description']" position="replace"/>
+                <xpath expr="//form/header/button[1]" position="attributes">
+                    <attribute name="name">action_apply_lead</attribute>
+                    <attribute name="type">object</attribute>
+                    <attribute name="confirm">La iniciativa actual se convertirá a una oportunidad. ¿Desea continuar?</attribute>
+                </xpath>
                 <xpath expr="//field[@name='name']" position="attributes">
                     <attribute name="placeholder">Nombre o razón social</attribute>
                 </xpath>
