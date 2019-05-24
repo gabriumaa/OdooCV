@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from . import canton, district, inherit_crm, inherit_contact
+from . import canton, district, inherit_crm, inherit_partner

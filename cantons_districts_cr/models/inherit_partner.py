@@ -3,8 +3,8 @@
 from odoo import models, fields, api
 
 
-class InheritCrm(models.Model):
-    _inherit = "crm.lead"
+class InheritPartner(models.Model):
+    _inherit = "res.partner"
 
     district_id = fields.Many2one(comodel_name="res.country.state.canton.district", string="Distrito", domain="[('canton_id','=',city)]", ondelete="restrict")
     city = fields.Many2one(comodel_name="res.country.state.canton", string="Cantón", domain="[('state_id','=',state_id)]", ondelete="restrict")
