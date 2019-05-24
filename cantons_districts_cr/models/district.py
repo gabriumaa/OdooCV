@@ -3,7 +3,7 @@
 from odoo import models, fields, api
 
 
-class district(models.Model):
+class District(models.Model):
     _name = "res.country.state.canton.district"
     _description = "Distrito"
 

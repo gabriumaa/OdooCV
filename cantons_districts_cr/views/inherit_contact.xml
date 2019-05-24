@@ -1,6 +1,6 @@
 <odoo>
     <data>
-        <record id="inherit_base_view_partner_form" model="ir.ui.view">
+        <record id="inherit_view_partner_form" model="ir.ui.view">
             <field name="name">Herencia dirección Contactos</field>
             <field name="model">res.partner</field>
             <field name="inherit_id" ref="base.view_partner_form"/>

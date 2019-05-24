@@ -3,7 +3,7 @@
 from odoo import models, fields, api
 
 
-class canton(models.Model):
+class Canton(models.Model):
     _name = "res.country.state.canton"
     _description = "Cantón"
 

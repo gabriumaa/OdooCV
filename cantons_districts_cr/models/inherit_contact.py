@@ -3,7 +3,7 @@
 from odoo import models, fields, api
 
 
-class inheritContact(models.Model):
+class InheritContact(models.Model):
     _inherit = "res.partner"
 
     district_id = fields.Many2one( comodel_name="res.country.state.canton.district", string="Distrito", domain="[('canton_id','=',city)]" )
