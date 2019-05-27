@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-from . import inherit_crm
+from . import inherit_crm, inherit_partner

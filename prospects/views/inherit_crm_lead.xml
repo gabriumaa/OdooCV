@@ -1,5 +1,24 @@
 <odoo>
     <data>
+        <record id="inherit_view_crm_case_leads_filter" model="ir.ui.view">
+            <field name="name">Prospectos filtros CRM iniciativas</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.view_crm_case_leads_filter"/>
+            <field name="arch" type="xml">
+                <filter name="country" position="replace"/>
+                <filter name="source" position="replace"/>
+                <xpath expr="//filter[@name='city']" position="attributes">
+                    <attribute name="string">Cantón</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='saleschannel']" position="attributes">
+                    <attribute name="string">Equipo de ventas</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='city']" position="after">
+                    <filter name="district_id" string="Distrito" context="{'group_by': 'district_id'}"/>
+                </xpath>
+            </field>
+        </record>
+
         <record id="inherit_crm_case_tree_view_leads" model="ir.ui.view">
             <field name="name">Prospectos árbol CRM iniciativas</field>
             <field name="model">crm.lead</field>
@@ -14,7 +33,7 @@
                 <xpath expr="//field[@name='city']" position="attributes">
                     <attribute name="string">Cantón</attribute>
                 </xpath>
-                <xpath expr="//field[@name='city']" position="before">
+                <xpath expr="//field[@name='city']" position="after">
                     <field name="district_id"/>
                 </xpath>
             </field>
@@ -85,16 +104,15 @@
                 <xpath expr="//field[@name='mobile']" position="after">
                     <field name="other_phone" placeholder="Por ejemplo, 22221111"/>
                 </xpath>
-                <xpath expr="//form/sheet/group/group/div[contains(@class, 'o_row') and contains(@class, 'o_row_readonly')]" position="after">
+                <xpath expr="//form/sheet/group/group/div[hasclass('o_row', 'o_row_readonly')]" position="after">
                     <field name="website" placeholder="Por ejemplo, www.odoo.com"/>
                 </xpath>
                 <xpath expr="//form/sheet/notebook/page[1]" position="inside">
                     <group string="Servicios de interés">
-                        <field name="product_ids" nolabel="1">
-                            <tree>
-                                <field name="default_code"/>
-                                <field name="name"/>
-                                <field name="lst_price"/>
+                        <field name="crm_products_ids" nolabel="1">
+                            <tree editable="bottom">
+                                <field name="product_id"/>
+                                <field name="product_price" readonly="True"/>
                             </tree>
                         </field>
                     </group>
