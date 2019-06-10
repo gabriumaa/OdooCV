@@ -24,6 +24,7 @@
     "data": [
         "security/ir.model.access.csv",
         "views/inherit_crm_lead.xml",
-        "views/inherit_crm_opportunity.xml"
+        "views/inherit_crm_opportunity.xml",
+        "views/inherit_partner.xml"
     ],
 }

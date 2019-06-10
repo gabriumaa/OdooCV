@@ -6,6 +6,7 @@ from odoo import models, fields, api
 class InheritCrm(models.Model):
     _inherit = "crm.lead"
 
+    last_name = fields.Char(index=True, string="Apellidos")
     company_type = fields.Selection(selection=[("person", "Residencial"), ("company", "Empresarial")], string="Tipo de cliente", default="person")
     planned_revenue = fields.Monetary(currency_field="company_currency", string="Expected Revenue", compute="_products_total")
     vat = fields.Char(string="Cédula o identificación")

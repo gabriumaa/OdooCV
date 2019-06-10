@@ -1,0 +1,41 @@
+<odoo>
+    <data>
+        <record id="inherit_view_res_partner_filter" model="ir.ui.view">
+            <field name="name">Prospectos filtros Contactos</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_res_partner_filter"/>
+            <field name="arch" type="xml">
+                <filter name="customer" position="replace"/>
+                <filter name="group_country" position="replace"/>
+                <xpath expr="//filter[@name='type_person']" position="attributes">
+                    <attribute name="string">Residencial</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='type_company']" position="attributes">
+                    <attribute name="string">Empresarial</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='group_company']" position="after">
+                    <filter name="state_id" string="Cantón" context="{'group_by': 'state_id'}"/>
+                </xpath>
+                <xpath expr="//filter[@name='state_id']" position="after">
+                    <filter name="district_id" string="Distrito" context="{'group_by': 'district_id'}"/>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="inherit_res_partner_kanban_view" model="ir.ui.view">
+            <field name="name">Prospectos kanban Contactos</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.res_partner_kanban_view"/>
+            <field name="arch" type="xml">
+                <xpath expr="//kanban/templates/t/div/div[@class='oe_kanban_details']/ul" position="replace">
+                    <ul>
+                        <li t-if="record.parent_id.raw_value"><field name="parent_id"/></li>
+                        <li t-if="!record.district_id.raw_value and record.city.raw_value"><field name="city"/></li>
+                        <li t-if="record.city.raw_value and record.district_id.raw_value"><field name="city"/>, <field name="district_id"/></li>
+                        <li t-if="record.email.raw_value" class="o_text_overflow"><field name="email"/></li>
+                    </ul>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

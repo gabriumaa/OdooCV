@@ -61,19 +61,27 @@
                 <xpath expr="//field[@name='phone']" position="replace"/>
                 <xpath expr="//field[@name='mobile']" position="replace"/>
                 <xpath expr="//field[@name='description']" position="replace"/>
+                <xpath expr="//field[@name='name']" position="replace">
+                    <field name="display_name" style="margin-bottom:0;"/>
+                </xpath>
                 <xpath expr="//form/header/button[1]" position="attributes">
                     <attribute name="name">action_apply_lead</attribute>
                     <attribute name="type">object</attribute>
                     <attribute name="confirm">La iniciativa actual se convertirá a una oportunidad. ¿Desea continuar?</attribute>
                 </xpath>
-                <xpath expr="//field[@name='name']" position="attributes">
-                    <attribute name="placeholder">Nombre o razón social</attribute>
-                </xpath>
                 <xpath expr="//field[@name='email_from']" position="attributes">
                     <attribute name="placeholder">Por ejemplo, odoo@odoo.com</attribute>
                 </xpath>
-                <xpath expr="//field[@name='name']" position="before">
+                <xpath expr="//div[@class='oe_title']/h1" position="before">
                     <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': true}"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group[1]" position="before">
+                    <group colspan="2" style="margin: 10px 0 -4px;">
+                        <label for="name" string="Nombre completo o razón social"/>
+                        <newline/>
+                        <field name="name" nolabel="1" style="margin-bottom:0;"/>
+                        <field name="last_name" nolabel="1" style="margin-bottom:0;"/>
+                    </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
                     <field name="vat" placeholder="Por ejemplo, ESA00000000"/>
