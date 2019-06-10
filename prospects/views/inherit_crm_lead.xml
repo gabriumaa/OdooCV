@@ -79,8 +79,8 @@
                     <group colspan="2" style="margin: 10px 0 -4px;">
                         <label for="name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="name" nolabel="1" style="margin-bottom:0;"/>
-                        <field name="last_name" nolabel="1" style="margin-bottom:0;"/>
+                        <field name="name" placeholder="Nombre" nolabel="1" style="margin-bottom:0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom:0;"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
