@@ -79,12 +79,12 @@
                     <group colspan="2" style="margin: 10px 0 -4px;">
                         <label for="name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="name" placeholder="Nombre" nolabel="1" style="margin-bottom:0;"/>
-                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom:0;"/>
+                        <field name="name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom:0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom:0;" attrs="{'required':[('company_type','=','person')],'invisible':[('company_type','=','company')]}"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
-                    <field name="vat" placeholder="Por ejemplo, ESA00000000"/>
+                    <field name="vat" placeholder="Por ejemplo, ESA00000000" required="True"/>
                 </xpath>
                 <xpath expr="//form/sheet/group/group/div[@class='o_address_format']" position="after">
                     <label for="nise"/>
@@ -104,7 +104,7 @@
                     <field name="function" options="{'no_open':True}"/>
                 </xpath>
                 <xpath expr="//field[@name='function']" position="after">
-                    <field name="phone" placeholder="Por ejemplo, 22221111"/>
+                    <field name="phone" placeholder="Por ejemplo, 22221111" required="True"/>
                 </xpath>
                 <xpath expr="//field[@name='phone']" position="after">
                     <field name="mobile" placeholder="Por ejemplo, 88884444"/>
