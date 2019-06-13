@@ -24,11 +24,10 @@
             <field name="model">crm.lead</field>
             <field name="inherit_id" ref="crm.crm_case_tree_view_leads"/>
             <field name="arch" type="xml">
-                <xpath expr="//field[@name='contact_name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
-                </xpath>
-                <xpath expr="//field[@name='country_id']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                <xpath expr="//field[@name='contact_name']" position="replace"/>
+                <xpath expr="//field[@name='country_id']" position="replace"/>
+                <xpath expr="//field[@name='team_id']" position="replace">
+                    <field name="user_id"/>
                 </xpath>
                 <xpath expr="//field[@name='city']" position="attributes">
                     <attribute name="string">Cantón</attribute>
@@ -44,43 +43,40 @@
             <field name="model">crm.lead</field>
             <field name="inherit_id" ref="crm.crm_case_form_view_leads"/>
             <field name="arch" type="xml">
-                <xpath expr="//label[@for='name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
-                </xpath>
-                <xpath expr="//field[@name='partner_name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
-                </xpath>
                 <xpath expr="//label[@for='contact_name']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
                 <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
+                <xpath expr="//label[@for='name']" position="replace"/>
+                <xpath expr="//field[@name='partner_name']" position="replace"/>
                 <xpath expr="//field[@name='website']" position="replace"/>
                 <xpath expr="//field[@name='function']" position="replace"/>
                 <xpath expr="//field[@name='phone']" position="replace"/>
                 <xpath expr="//field[@name='mobile']" position="replace"/>
                 <xpath expr="//field[@name='description']" position="replace"/>
-                <xpath expr="//field[@name='name']" position="replace">
-                    <field name="display_name" style="margin-bottom:0;"/>
-                </xpath>
                 <xpath expr="//form/header/button[1]" position="attributes">
                     <attribute name="name">action_apply_lead</attribute>
                     <attribute name="type">object</attribute>
                     <attribute name="confirm">La iniciativa actual se convertirá a una oportunidad. ¿Desea continuar?</attribute>
                 </xpath>
+                <xpath expr="//field[@name='name']" position="attributes">
+                    <attribute name="readonly">1</attribute>
+                    <attribute name="required">0</attribute>
+                </xpath>
                 <xpath expr="//field[@name='email_from']" position="attributes">
                     <attribute name="placeholder">Por ejemplo, odoo@odoo.com</attribute>
                 </xpath>
                 <xpath expr="//div[@class='oe_title']/h1" position="before">
-                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': true}"/>
+                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': True}"/>
                 </xpath>
                 <xpath expr="//form/sheet/group/group[1]" position="before">
-                    <group colspan="2" style="margin: 10px 0 -4px;">
-                        <label for="name" string="Nombre completo o razón social"/>
+                    <group colspan="2" style="margin: 0 0 -4px;">
+                        <label for="first_name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom:0;"/>
-                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom:0;" attrs="{'required':[('company_type','=','person')],'invisible':[('company_type','=','company')]}"/>
+                        <field name="first_name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom: 0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
@@ -101,25 +97,25 @@
                     </div>
                 </xpath>
                 <xpath expr="//field[@name='is_blacklisted']" position="before">
-                    <field name="function" options="{'no_open':True}"/>
+                    <field name="function" options="{'no_open': True}" attrs="{'invisible': [('company_type','=','company')]}"/>
                 </xpath>
                 <xpath expr="//field[@name='function']" position="after">
-                    <field name="phone" placeholder="Por ejemplo, 22221111" required="True"/>
+                    <field name="phone" widget="phone" placeholder="Por ejemplo, 22221111" required="True"/>
                 </xpath>
                 <xpath expr="//field[@name='phone']" position="after">
                     <field name="mobile" placeholder="Por ejemplo, 88884444"/>
                 </xpath>
                 <xpath expr="//field[@name='mobile']" position="after">
-                    <field name="other_phone" placeholder="Por ejemplo, 22221111"/>
+                    <field name="other_phone" widget="phone" placeholder="Por ejemplo, 22221111"/>
                 </xpath>
                 <xpath expr="//form/sheet/group/group/div[hasclass('o_row', 'o_row_readonly')]" position="after">
-                    <field name="website" placeholder="Por ejemplo, www.odoo.com"/>
+                    <field name="website" widget="url" placeholder="Por ejemplo, www.odoo.com"/>
                 </xpath>
                 <xpath expr="//form/sheet/notebook/page[1]" position="inside">
                     <group string="Servicios de interés">
                         <field name="crm_products_ids" nolabel="1">
                             <tree editable="bottom">
-                                <field name="product_id" options="{'no_open':True}"/>
+                                <field name="product_id" options="{'no_open': True}"/>
                                 <field name="product_price" readonly="True"/>
                             </tree>
                         </field>

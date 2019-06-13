@@ -37,9 +37,6 @@
             <field name="model">crm.lead</field>
             <field name="inherit_id" ref="crm.crm_case_form_view_oppor"/>
             <field name="arch" type="xml">
-                <xpath expr="//label[@for='name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
-                </xpath>
                 <xpath expr="//field[@name='partner_name']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
@@ -49,6 +46,7 @@
                 <xpath expr="//page[@name='lead']/group/group/div[@class='o_row']" position="attributes">
                     <attribute name="invisible">1</attribute>
                 </xpath>
+                <xpath expr="//label[@for='name']" position="replace"/>
                 <xpath expr="//field[@name='is_blacklisted']" position="replace"/>
                 <xpath expr="//field[@name='partner_is_blacklisted']" position="replace"/>
                 <xpath expr="//label[@for='email_from']" position="replace"/>
@@ -56,8 +54,9 @@
                 <xpath expr="//field[@name='partner_address_phone']" position="replace"/>
                 <xpath expr="//field[@name='phone']" position="replace"/>
                 <xpath expr="//field[@name='description']" position="replace"/>
-                <xpath expr="//field[@name='name']" position="replace">
-                    <field name="display_name" style="margin-bottom:0;"/>
+                <xpath expr="//field[@name='name']" position="attributes">
+                    <attribute name="readonly">1</attribute>
+                    <attribute name="required">0</attribute>
                 </xpath>
                 <xpath expr="//field[@name='planned_revenue']" position="attributes">
                     <attribute name="readonly">1</attribute>
@@ -69,17 +68,18 @@
                     <attribute name="placeholder">Por ejemplo, 88884444</attribute>
                 </xpath>
                 <xpath expr="//field[@name='function']" position="attributes">
-                    <attribute name="options">{'no_open':True}</attribute>
+                    <attribute name="options">{'no_open': True}</attribute>
+                    <attribute name="attrs">{'invisible': [('company_type','=','company')]}</attribute>
                 </xpath>
                 <xpath expr="//div[@class='oe_title']/h1" position="before">
-                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': true}"/>
+                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': True}"/>
                 </xpath>
                 <xpath expr="//form/sheet/group/group[1]" position="before">
-                    <group colspan="2" style="margin: 10px 0 -4px;">
-                        <label for="name" string="Nombre completo o razón social"/>
+                    <group colspan="2" style="margin: 0 0 -4px;">
+                        <label for="first_name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom:0;"/>
-                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom:0;" attrs="{'required':[('company_type','=','person')],'invisible':[('company_type','=','company')]}"/>
+                        <field name="first_name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom: 0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
@@ -96,7 +96,7 @@
                     <group string="Servicios de interés">
                         <field name="crm_products_ids" nolabel="1">
                             <tree editable="bottom">
-                                <field name="product_id" options="{'no_open':True}"/>
+                                <field name="product_id" options="{'no_open': True}"/>
                                 <field name="product_price" readonly="True"/>
                             </tree>
                         </field>
@@ -119,7 +119,7 @@
                     <field name="phone" attrs="{'invisible': [('partner_address_phone', '!=', False)], 'required': [('partner_address_phone', '=', False)]}" placeholder="Por ejemplo, 22221111" widget="phone"/>
                 </xpath>
                 <xpath expr="//field[@name='mobile']" position="after">
-                    <field name="other_phone" placeholder="Por ejemplo, 22221111"/>
+                    <field name="other_phone" widget="phone" placeholder="Por ejemplo, 22221111"/>
                 </xpath>
                 <xpath expr="//field[@name='other_phone']" position="after">
                     <field name="is_blacklisted" invisible="1"/>
