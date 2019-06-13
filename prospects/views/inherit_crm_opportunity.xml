@@ -38,13 +38,13 @@
             <field name="inherit_id" ref="crm.crm_case_form_view_oppor"/>
             <field name="arch" type="xml">
                 <xpath expr="//field[@name='partner_name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                    <attribute name="invisible">True</attribute>
                 </xpath>
                 <xpath expr="//label[@for='contact_name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                    <attribute name="invisible">True</attribute>
                 </xpath>
                 <xpath expr="//page[@name='lead']/group/group/div[@class='o_row']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                    <attribute name="invisible">True</attribute>
                 </xpath>
                 <xpath expr="//label[@for='name']" position="replace"/>
                 <xpath expr="//field[@name='is_blacklisted']" position="replace"/>
@@ -55,14 +55,14 @@
                 <xpath expr="//field[@name='phone']" position="replace"/>
                 <xpath expr="//field[@name='description']" position="replace"/>
                 <xpath expr="//field[@name='name']" position="attributes">
-                    <attribute name="readonly">1</attribute>
-                    <attribute name="required">0</attribute>
+                    <attribute name="readonly">True</attribute>
+                    <attribute name="required">False</attribute>
                 </xpath>
                 <xpath expr="//field[@name='planned_revenue']" position="attributes">
-                    <attribute name="readonly">1</attribute>
+                    <attribute name="readonly">True</attribute>
                 </xpath>
                 <xpath expr="//field[@name='probability']" position="attributes">
-                    <attribute name="readonly">1</attribute>
+                    <attribute name="readonly">True</attribute>
                 </xpath>
                 <xpath expr="//field[@name='mobile']" position="attributes">
                     <attribute name="placeholder">Por ejemplo, 88884444</attribute>
@@ -78,8 +78,8 @@
                     <group colspan="2" style="margin: 0 0 -4px;">
                         <label for="first_name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="first_name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom: 0;"/>
-                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
+                        <field name="first_name" placeholder="Nombre" required="True" nolabel="True" style="margin-bottom: 0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="True" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
@@ -88,13 +88,13 @@
                 <xpath expr="//field[@name='date_deadline']" position="after">
                     <label for="node" string="Sector"/>
                     <div class="o_row">
-                        <field name="node" placeholder="Nodo" nolabel="1"/>
-                        <field name="plate" placeholder="Placa" nolabel="1"/>
+                        <field name="node" placeholder="Nodo" nolabel="True"/>
+                        <field name="plate" placeholder="Placa" nolabel="True"/>
                     </div>
                 </xpath>
                 <xpath expr="//form/sheet/notebook/page[1]" position="inside">
                     <group string="Servicios de interés">
-                        <field name="crm_products_ids" nolabel="1">
+                        <field name="crm_products_ids" nolabel="True">
                             <tree editable="bottom">
                                 <field name="product_id" options="{'no_open': True}"/>
                                 <field name="product_price" readonly="True"/>
@@ -102,28 +102,28 @@
                         </field>
                     </group>
                     <group string="Detalles adicionales">
-                        <field name="description" nolabel="1"/>
+                        <field name="description" nolabel="True"/>
                     </group>
                 </xpath>
                 <xpath expr="//page[@name='lead']/group/group/div[@class='o_address_format']" position="after">
                     <label for="nise"/>
                     <div class="o_row">
-                        <field name="electric_company" nolabel="1"/>
-                        <field name="nise" nolabel="1"/>
+                        <field name="electric_company" nolabel="True"/>
+                        <field name="nise" nolabel="True"/>
                     </div>
                 </xpath>
                 <xpath expr="//field[@name='function']" position="after">
-                    <field name="partner_address_phone" attrs="{'invisible': [('partner_address_phone', '==', False)]}" readonly="1" widget="phone" string="Phone"/>
+                    <field name="partner_address_phone" attrs="{'invisible': [('partner_address_phone', '==', False)]}" readonly="True" widget="phone" string="Phone"/>
                 </xpath>
                 <xpath expr="//field[@name='partner_address_phone']" position="after">
-                    <field name="phone" attrs="{'invisible': [('partner_address_phone', '!=', False)], 'required': [('partner_address_phone', '=', False)]}" placeholder="Por ejemplo, 22221111" widget="phone"/>
+                    <field name="phone" attrs="{'invisible': [('partner_address_phone', '!=', False)], 'required': [('partner_address_phone', '==', False)]}" placeholder="Por ejemplo, 22221111" widget="phone"/>
                 </xpath>
                 <xpath expr="//field[@name='mobile']" position="after">
                     <field name="other_phone" widget="phone" placeholder="Por ejemplo, 22221111"/>
                 </xpath>
                 <xpath expr="//field[@name='other_phone']" position="after">
-                    <field name="is_blacklisted" invisible="1"/>
-                    <field name="partner_is_blacklisted" invisible="1"/>
+                    <field name="is_blacklisted" invisible="True"/>
+                    <field name="partner_is_blacklisted" invisible="True"/>
                     <label for="email_from" class="oe_inline"/>
                     <div class="o_row o_row_readonly">
                         <i class="fa fa-ban" style="color: red;" role="img" title="This email is blacklisted for mass mailing" aria-label="Blacklisted" attrs="{'invisible': ['|', ('is_blacklisted', '=', False), ('partner_address_email', '!=', False)]}" groups="base.group_user"/>

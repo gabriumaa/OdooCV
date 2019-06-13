@@ -44,10 +44,10 @@
             <field name="inherit_id" ref="crm.crm_case_form_view_leads"/>
             <field name="arch" type="xml">
                 <xpath expr="//label[@for='contact_name']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                    <attribute name="invisible">True</attribute>
                 </xpath>
                 <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="attributes">
-                    <attribute name="invisible">1</attribute>
+                    <attribute name="invisible">True</attribute>
                 </xpath>
                 <xpath expr="//label[@for='name']" position="replace"/>
                 <xpath expr="//field[@name='partner_name']" position="replace"/>
@@ -62,8 +62,8 @@
                     <attribute name="confirm">La iniciativa actual se convertirá a una oportunidad. ¿Desea continuar?</attribute>
                 </xpath>
                 <xpath expr="//field[@name='name']" position="attributes">
-                    <attribute name="readonly">1</attribute>
-                    <attribute name="required">0</attribute>
+                    <attribute name="readonly">True</attribute>
+                    <attribute name="required">False</attribute>
                 </xpath>
                 <xpath expr="//field[@name='email_from']" position="attributes">
                     <attribute name="placeholder">Por ejemplo, odoo@odoo.com</attribute>
@@ -75,8 +75,8 @@
                     <group colspan="2" style="margin: 0 0 -4px;">
                         <label for="first_name" string="Nombre completo o razón social"/>
                         <newline/>
-                        <field name="first_name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom: 0;"/>
-                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
+                        <field name="first_name" placeholder="Nombre" required="True" nolabel="True" style="margin-bottom: 0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="True" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
                     </group>
                 </xpath>
                 <xpath expr="//field[@name='partner_id']" position="after">
@@ -85,15 +85,15 @@
                 <xpath expr="//form/sheet/group/group/div[@class='o_address_format']" position="after">
                     <label for="nise"/>
                     <div class="o_row">
-                        <field name="electric_company" nolabel="1"/>
-                        <field name="nise" nolabel="1"/>
+                        <field name="electric_company" nolabel="True"/>
+                        <field name="nise" nolabel="True"/>
                     </div>
                 </xpath>
                 <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="after">
                     <label for="node" string="Sector"/>
                     <div class="o_row">
-                        <field name="node" placeholder="Nodo" nolabel="1"/>
-                        <field name="plate" placeholder="Placa" nolabel="1"/>
+                        <field name="node" placeholder="Nodo" nolabel="True"/>
+                        <field name="plate" placeholder="Placa" nolabel="True"/>
                     </div>
                 </xpath>
                 <xpath expr="//field[@name='is_blacklisted']" position="before">
@@ -113,7 +113,7 @@
                 </xpath>
                 <xpath expr="//form/sheet/notebook/page[1]" position="inside">
                     <group string="Servicios de interés">
-                        <field name="crm_products_ids" nolabel="1">
+                        <field name="crm_products_ids" nolabel="True">
                             <tree editable="bottom">
                                 <field name="product_id" options="{'no_open': True}"/>
                                 <field name="product_price" readonly="True"/>
@@ -121,7 +121,7 @@
                         </field>
                     </group>
                     <group string="Detalles adicionales">
-                        <field name="description" nolabel="1"/>
+                        <field name="description" nolabel="True"/>
                     </group>
                 </xpath>
             </field>
