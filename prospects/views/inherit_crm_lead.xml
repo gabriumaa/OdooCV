@@ -126,5 +126,25 @@
                 </xpath>
             </field>
         </record>
+
+        <record id="inherit_merge_opportunity_form" model="ir.ui.view">
+            <field name="name">Prospectos fusión CRM</field>
+            <field name="model">crm.merge.opportunity</field>
+            <field name="inherit_id" ref="crm.merge_opportunity_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='opportunity_ids']" position="replace">
+                    <field name="opportunity_ids" nolabel="1">
+                        <tree create="false" delete="false">
+                            <field name="create_date"/>
+                            <field name="type"/>
+                            <field name="name" string="Nombre"/>
+                            <field name="vat"/>
+                            <field name="stage_id"/>
+                            <field name="user_id"/>
+                        </tree>
+                    </field>
+                </xpath>
+            </field>
+        </record>
     </data>
 </odoo>
