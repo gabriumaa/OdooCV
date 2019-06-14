@@ -1,0 +1,30 @@
+<odoo>
+    <data>
+        <record id="inherit_view_partner_form" model="ir.ui.view">
+            <field name="name">Herencia dirección Contactos</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='type']" position="attributes">
+                    <attribute name="readonly">True</attribute>
+                </xpath>
+                <xpath expr="//div[@class='o_address_format']" position="replace">
+                    <div class="o_address_format">
+                        <field name="street" placeholder="Puntos de referencia" class="o_address_street" attrs="{'readonly': [('type','=','contact'),('parent_id','!=',False)]}"/>
+                        <field name="street2" invisible="1"/>
+                        <div class="o_row">
+                            <field name="country_id" placeholder="País" nolabel="1" options="{'no_open': True}" attrs="{'readonly': [('type','=','contact'),('parent_id','!=',False)]}"/>
+                            <field name="state_id" domain="[('country_id','=',country_id)]" placeholder="Provincia" nolabel="1" options="{'no_open': True}" attrs="{'readonly': [('type','=','contact'),('parent_id','!=',False)]}"/>
+                        </div>
+                        <span class="oe_read_only"><![CDATA[&nbsp;&nbsp;]]></span>
+                        <div class="o_row">
+                            <field name="city" placeholder="Cantón" nolabel="1" options="{'no_open': True}" attrs="{'readonly': [('type','=','contact'),('parent_id','!=',False)]}"/>
+                            <field name="district_id" placeholder="Distrito" nolabel="1" options="{'no_open': True}" attrs="{'readonly': [('type','=','contact'),('parent_id','!=',False)]}"/>
+                        </div>
+                        <field name="zip" invisible="1"/>
+                    </div>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

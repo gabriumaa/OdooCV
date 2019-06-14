@@ -1,0 +1,584 @@
+<odoo>
+    <data noupdate="0">
+        <!-- Cantones San José -->
+        <record id="canton_cr_101" model="res.country.state.canton">
+            <field name="code">101</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San José</field>
+        </record>
+
+        <record id="canton_cr_102" model="res.country.state.canton">
+            <field name="code">102</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Escazú</field>
+        </record>
+
+        <record id="canton_cr_103" model="res.country.state.canton">
+            <field name="code">103</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Desamparados</field>
+        </record>
+
+        <record id="canton_cr_104" model="res.country.state.canton">
+            <field name="code">104</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Puriscal</field>
+        </record>
+
+        <record id="canton_cr_105" model="res.country.state.canton">
+            <field name="code">105</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Tarrazú</field>
+        </record>
+
+        <record id="canton_cr_106" model="res.country.state.canton">
+            <field name="code">106</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Aserrí</field>
+        </record>
+
+        <record id="canton_cr_107" model="res.country.state.canton">
+            <field name="code">107</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Mora</field>
+        </record>
+
+        <record id="canton_cr_108" model="res.country.state.canton">
+            <field name="code">108</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Goicoechea</field>
+        </record>
+
+        <record id="canton_cr_109" model="res.country.state.canton">
+            <field name="code">109</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Santa Ana</field>
+        </record>
+
+        <record id="canton_cr_110" model="res.country.state.canton">
+            <field name="code">110</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Alajuelita</field>
+        </record>
+
+        <record id="canton_cr_111" model="res.country.state.canton">
+            <field name="code">111</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Vásquez de Coronado</field>
+        </record>
+
+        <record id="canton_cr_112" model="res.country.state.canton">
+            <field name="code">112</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Acosta</field>
+        </record>
+
+        <record id="canton_cr_113" model="res.country.state.canton">
+            <field name="code">113</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Tibás</field>
+        </record>
+
+        <record id="canton_cr_114" model="res.country.state.canton">
+            <field name="code">114</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Moravia</field>
+        </record>
+
+        <record id="canton_cr_115" model="res.country.state.canton">
+            <field name="code">115</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Montes de Oca</field>
+        </record>
+
+        <record id="canton_cr_116" model="res.country.state.canton">
+            <field name="code">116</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Turrubares</field>
+        </record>
+
+        <record id="canton_cr_117" model="res.country.state.canton">
+            <field name="code">117</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Dota</field>
+        </record>
+
+        <record id="canton_cr_118" model="res.country.state.canton">
+            <field name="code">118</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Currridabat</field>
+        </record>
+
+        <record id="canton_cr_119" model="res.country.state.canton">
+            <field name="code">119</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Pérez Zeledón</field>
+        </record>
+
+        <record id="canton_cr_120" model="res.country.state.canton">
+            <field name="code">120</field>
+            <field name="state_id" ref="state_cr_1"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">León Cortés</field>
+        </record>
+
+        <!-- Cantones Alajuela -->
+        <record id="canton_cr_201" model="res.country.state.canton">
+            <field name="code">201</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Alajuela</field>
+        </record>
+
+        <record id="canton_cr_202" model="res.country.state.canton">
+            <field name="code">202</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Ramón</field>
+        </record>
+
+        <record id="canton_cr_203" model="res.country.state.canton">
+            <field name="code">203</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Grecia</field>
+        </record>
+
+        <record id="canton_cr_204" model="res.country.state.canton">
+            <field name="code">204</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Mateo</field>
+        </record>
+
+        <record id="canton_cr_205" model="res.country.state.canton">
+            <field name="code">205</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Atenas</field>
+        </record>
+
+        <record id="canton_cr_206" model="res.country.state.canton">
+            <field name="code">206</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Naranjo</field>
+        </record>
+
+        <record id="canton_cr_207" model="res.country.state.canton">
+            <field name="code">207</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Palmares</field>
+        </record>
+
+        <record id="canton_cr_208" model="res.country.state.canton">
+            <field name="code">208</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Poás</field>
+        </record>
+
+        <record id="canton_cr_209" model="res.country.state.canton">
+            <field name="code">209</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Orotina</field>
+        </record>
+
+        <record id="canton_cr_210" model="res.country.state.canton">
+            <field name="code">210</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Carlos</field>
+        </record>
+
+        <record id="canton_cr_211" model="res.country.state.canton">
+            <field name="code">211</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Alfaro Ruíz</field>
+        </record>
+
+        <record id="canton_cr_212" model="res.country.state.canton">
+            <field name="code">212</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Valverde Vega</field>
+        </record>
+
+        <record id="canton_cr_213" model="res.country.state.canton">
+            <field name="code">213</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Upala</field>
+        </record>
+
+        <record id="canton_cr_214" model="res.country.state.canton">
+            <field name="code">214</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Los Chiles</field>
+        </record>
+
+        <record id="canton_cr_215" model="res.country.state.canton">
+            <field name="code">215</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Guatuso</field>
+        </record>
+
+        <record id="canton_cr_216" model="res.country.state.canton">
+            <field name="code">216</field>
+            <field name="state_id" ref="state_cr_2"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Río Cuarto</field>
+        </record>
+
+        <!-- Cantones Cartago -->
+        <record id="canton_cr_301" model="res.country.state.canton">
+            <field name="code">301</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Cartago</field>
+        </record>
+
+        <record id="canton_cr_302" model="res.country.state.canton">
+            <field name="code">302</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Paraíso</field>
+        </record>
+
+        <record id="canton_cr_303" model="res.country.state.canton">
+            <field name="code">303</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">La Unión</field>
+        </record>
+
+        <record id="canton_cr_304" model="res.country.state.canton">
+            <field name="code">304</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Jiménez</field>
+        </record>
+
+        <record id="canton_cr_305" model="res.country.state.canton">
+            <field name="code">305</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Turrialba</field>
+        </record>
+
+        <record id="canton_cr_306" model="res.country.state.canton">
+            <field name="code">306</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Alvarado</field>
+        </record>
+
+        <record id="canton_cr_307" model="res.country.state.canton">
+            <field name="code">307</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Oreamuno</field>
+        </record>
+
+        <record id="canton_cr_308" model="res.country.state.canton">
+            <field name="code">308</field>
+            <field name="state_id" ref="state_cr_3"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">El Guarco</field>
+        </record>
+
+        <!-- Cantones Heredia -->
+        <record id="canton_cr_401" model="res.country.state.canton">
+            <field name="code">401</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Heredia</field>
+        </record>
+
+        <record id="canton_cr_402" model="res.country.state.canton">
+            <field name="code">402</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Barva</field>
+        </record>
+
+        <record id="canton_cr_403" model="res.country.state.canton">
+            <field name="code">403</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Santo Domingo</field>
+        </record>
+
+        <record id="canton_cr_404" model="res.country.state.canton">
+            <field name="code">404</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Santa Bárbara</field>
+        </record>
+
+        <record id="canton_cr_405" model="res.country.state.canton">
+            <field name="code">405</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Rafael</field>
+        </record>
+
+        <record id="canton_cr_406" model="res.country.state.canton">
+            <field name="code">406</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Isidro</field>
+        </record>
+
+        <record id="canton_cr_407" model="res.country.state.canton">
+            <field name="code">407</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Belén</field>
+        </record>
+
+        <record id="canton_cr_408" model="res.country.state.canton">
+            <field name="code">408</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Flores</field>
+        </record>
+
+        <record id="canton_cr_409" model="res.country.state.canton">
+            <field name="code">409</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">San Pablo</field>
+        </record>
+
+        <record id="canton_cr_410" model="res.country.state.canton">
+            <field name="code">410</field>
+            <field name="state_id" ref="state_cr_4"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Sarapiquí</field>
+        </record>
+
+        <!-- Cantones Guanacaste -->
+        <record id="canton_cr_501" model="res.country.state.canton">
+            <field name="code">501</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Liberia</field>
+        </record>
+
+        <record id="canton_cr_502" model="res.country.state.canton">
+            <field name="code">502</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Nicoya</field>
+        </record>
+
+        <record id="canton_cr_503" model="res.country.state.canton">
+            <field name="code">503</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Santa Cruz</field>
+        </record>
+
+        <record id="canton_cr_504" model="res.country.state.canton">
+            <field name="code">504</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Bagaces</field>
+        </record>
+
+        <record id="canton_cr_505" model="res.country.state.canton">
+            <field name="code">505</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Carrillo</field>
+        </record>
+
+        <record id="canton_cr_506" model="res.country.state.canton">
+            <field name="code">506</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Cañas</field>
+        </record>
+
+        <record id="canton_cr_507" model="res.country.state.canton">
+            <field name="code">507</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Abangares</field>
+        </record>
+
+        <record id="canton_cr_508" model="res.country.state.canton">
+            <field name="code">508</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Tilarán</field>
+        </record>
+
+        <record id="canton_cr_509" model="res.country.state.canton">
+            <field name="code">509</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Nandayure</field>
+        </record>
+
+        <record id="canton_cr_510" model="res.country.state.canton">
+            <field name="code">510</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">La Cruz</field>
+        </record>
+
+        <record id="canton_cr_511" model="res.country.state.canton">
+            <field name="code">511</field>
+            <field name="state_id" ref="state_cr_5"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Hojancha</field>
+        </record>
+
+        <!-- Cantones Puntarenas -->
+        <record id="canton_cr_601" model="res.country.state.canton">
+            <field name="code">601</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Puntarenas</field>
+        </record>
+
+        <record id="canton_cr_602" model="res.country.state.canton">
+            <field name="code">602</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Esparza</field>
+        </record>
+
+        <record id="canton_cr_603" model="res.country.state.canton">
+            <field name="code">603</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Buenos Aires</field>
+        </record>
+
+        <record id="canton_cr_604" model="res.country.state.canton">
+            <field name="code">604</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Montes de Oro</field>
+        </record>
+
+        <record id="canton_cr_605" model="res.country.state.canton">
+            <field name="code">605</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Osa</field>
+        </record>
+
+        <record id="canton_cr_606" model="res.country.state.canton">
+            <field name="code">606</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Aguirre</field>
+        </record>
+
+        <record id="canton_cr_607" model="res.country.state.canton">
+            <field name="code">607</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Golfito</field>
+        </record>
+
+        <record id="canton_cr_608" model="res.country.state.canton">
+            <field name="code">608</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Coto Brus</field>
+        </record>
+
+        <record id="canton_cr_609" model="res.country.state.canton">
+            <field name="code">609</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Parrita</field>
+        </record>
+
+        <record id="canton_cr_610" model="res.country.state.canton">
+            <field name="code">610</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Corredores</field>
+        </record>
+
+        <record id="canton_cr_611" model="res.country.state.canton">
+            <field name="code">611</field>
+            <field name="state_id" ref="state_cr_6"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Garabito</field>
+        </record>
+
+        <!-- Cantones Limón -->
+        <record id="canton_cr_701" model="res.country.state.canton">
+            <field name="code">701</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Limón</field>
+        </record>
+
+        <record id="canton_cr_702" model="res.country.state.canton">
+            <field name="code">702</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Pococí</field>
+        </record>
+
+        <record id="canton_cr_703" model="res.country.state.canton">
+            <field name="code">703</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Siquirres</field>
+        </record>
+
+        <record id="canton_cr_704" model="res.country.state.canton">
+            <field name="code">704</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Talamanca</field>
+        </record>
+
+        <record id="canton_cr_705" model="res.country.state.canton">
+            <field name="code">705</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Garabito</field>
+        </record>
+
+        <record id="canton_cr_706" model="res.country.state.canton">
+            <field name="code">706</field>
+            <field name="state_id" ref="state_cr_7"/>
+            <field name="country_id" ref="base.cr"/>
+            <field name="name">Guácimo</field>
+        </record>
+    </data>
+</odoo>
