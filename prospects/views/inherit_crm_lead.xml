@@ -1,0 +1,150 @@
+<odoo>
+    <data>
+        <record id="inherit_view_crm_case_leads_filter" model="ir.ui.view">
+            <field name="name">Prospectos filtros CRM iniciativas</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.view_crm_case_leads_filter"/>
+            <field name="arch" type="xml">
+                <filter name="country" position="replace"/>
+                <filter name="source" position="replace"/>
+                <xpath expr="//filter[@name='city']" position="attributes">
+                    <attribute name="string">Cantón</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='saleschannel']" position="attributes">
+                    <attribute name="string">Equipo de ventas</attribute>
+                </xpath>
+                <xpath expr="//filter[@name='city']" position="after">
+                    <filter name="district_id" string="Distrito" context="{'group_by': 'district_id'}"/>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="inherit_crm_case_tree_view_leads" model="ir.ui.view">
+            <field name="name">Prospectos árbol CRM iniciativas</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.crm_case_tree_view_leads"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='contact_name']" position="replace"/>
+                <xpath expr="//field[@name='country_id']" position="replace"/>
+                <xpath expr="//field[@name='team_id']" position="replace">
+                    <field name="user_id"/>
+                </xpath>
+                <xpath expr="//field[@name='city']" position="attributes">
+                    <attribute name="string">Cantón</attribute>
+                </xpath>
+                <xpath expr="//field[@name='city']" position="after">
+                    <field name="district_id"/>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="inherit_crm_case_form_view_leads" model="ir.ui.view">
+            <field name="name">Prospectos formulario CRM iniciativas</field>
+            <field name="model">crm.lead</field>
+            <field name="inherit_id" ref="crm.crm_case_form_view_leads"/>
+            <field name="arch" type="xml">
+                <xpath expr="//label[@for='contact_name']" position="attributes">
+                    <attribute name="invisible">True</attribute>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="attributes">
+                    <attribute name="invisible">True</attribute>
+                </xpath>
+                <xpath expr="//label[@for='name']" position="replace"/>
+                <xpath expr="//field[@name='partner_name']" position="replace"/>
+                <xpath expr="//field[@name='website']" position="replace"/>
+                <xpath expr="//field[@name='function']" position="replace"/>
+                <xpath expr="//field[@name='phone']" position="replace"/>
+                <xpath expr="//field[@name='mobile']" position="replace"/>
+                <xpath expr="//field[@name='description']" position="replace"/>
+                <xpath expr="//form/header/button[1]" position="attributes">
+                    <attribute name="name">action_apply_lead</attribute>
+                    <attribute name="type">object</attribute>
+                    <attribute name="confirm">La iniciativa actual se convertirá a una oportunidad. ¿Desea continuar?</attribute>
+                </xpath>
+                <xpath expr="//field[@name='name']" position="attributes">
+                    <attribute name="readonly">True</attribute>
+                    <attribute name="required">False</attribute>
+                </xpath>
+                <xpath expr="//field[@name='email_from']" position="attributes">
+                    <attribute name="placeholder">Por ejemplo, odoo@odoo.com</attribute>
+                </xpath>
+                <xpath expr="//div[@class='oe_title']/h1" position="before">
+                    <field name="company_type" widget="radio" class="oe_edit_only" options="{'horizontal': True}"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group[1]" position="before">
+                    <group colspan="2" style="margin: 0 0 -4px;">
+                        <label for="first_name" string="Nombre completo o razón social"/>
+                        <newline/>
+                        <field name="first_name" placeholder="Nombre" required="True" nolabel="1" style="margin-bottom: 0;"/>
+                        <field name="last_name" placeholder="Apellidos" nolabel="1" style="margin-bottom: 0;" attrs="{'invisible': [('company_type','=','company')], 'required': [('company_type','=','person')]}"/>
+                    </group>
+                </xpath>
+                <xpath expr="//field[@name='partner_id']" position="after">
+                    <field name="vat" placeholder="Por ejemplo, ESA00000000" required="True"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_address_format']" position="after">
+                    <label for="nise"/>
+                    <div class="o_row">
+                        <field name="electric_company" nolabel="1"/>
+                        <field name="nise" nolabel="1"/>
+                    </div>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[@class='o_row']" position="after">
+                    <label for="node" string="Sector"/>
+                    <div class="o_row">
+                        <field name="node" placeholder="Nodo" nolabel="1"/>
+                        <field name="plate" placeholder="Placa" nolabel="1"/>
+                    </div>
+                </xpath>
+                <xpath expr="//field[@name='is_blacklisted']" position="before">
+                    <field name="function" options="{'no_open': True}" attrs="{'invisible': [('company_type','=','company')]}"/>
+                </xpath>
+                <xpath expr="//field[@name='function']" position="after">
+                    <field name="phone" widget="phone" placeholder="Por ejemplo, 22221111" required="True"/>
+                </xpath>
+                <xpath expr="//field[@name='phone']" position="after">
+                    <field name="mobile" placeholder="Por ejemplo, 88884444"/>
+                </xpath>
+                <xpath expr="//field[@name='mobile']" position="after">
+                    <field name="other_phone" widget="phone" placeholder="Por ejemplo, 22221111"/>
+                </xpath>
+                <xpath expr="//form/sheet/group/group/div[hasclass('o_row', 'o_row_readonly')]" position="after">
+                    <field name="website" widget="url" placeholder="Por ejemplo, www.odoo.com"/>
+                </xpath>
+                <xpath expr="//form/sheet/notebook/page[1]" position="inside">
+                    <group string="Servicios de interés">
+                        <field name="crm_products_ids" nolabel="1">
+                            <tree editable="bottom">
+                                <field name="product_id" options="{'no_open': True}"/>
+                                <field name="product_price" readonly="True"/>
+                            </tree>
+                        </field>
+                    </group>
+                    <group string="Detalles adicionales">
+                        <field name="description" nolabel="1"/>
+                    </group>
+                </xpath>
+            </field>
+        </record>
+
+        <record id="inherit_merge_opportunity_form" model="ir.ui.view">
+            <field name="name">Prospectos fusión CRM</field>
+            <field name="model">crm.merge.opportunity</field>
+            <field name="inherit_id" ref="crm.merge_opportunity_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//field[@name='opportunity_ids']" position="replace">
+                    <field name="opportunity_ids" nolabel="1">
+                        <tree create="false" delete="false">
+                            <field name="create_date"/>
+                            <field name="type"/>
+                            <field name="name" string="Nombre"/>
+                            <field name="vat"/>
+                            <field name="stage_id"/>
+                            <field name="user_id"/>
+                        </tree>
+                    </field>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
